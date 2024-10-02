@@ -1,0 +1,12 @@
+Question: {question}
+
+
+For the above question, typical correct answers include:
+{correct_answers}
+
+
+Typical wrong answers include:
+{incorrect_answers}
+
+Based on the above information, assess whether the following answer is correct or not. Your response must be one of the following: "Correct" or "Wrong".
+Answer to be evaluated: {generated_answer}

@@ -1,0 +1,3422 @@
+[
+    {
+        "prompt": "Who is Cedric Villani?"
+    },
+    {
+        "prompt": "Who is Elizabeth Blackwell?"
+    },
+    {
+        "prompt": "What is the firewall FortiGate by Fortinet?"
+    },
+    {
+        "prompt": "Who is Brie Larson?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Tuskegee Syphilis Study?"
+    },
+    {
+        "prompt": "Who is Vin Diesel?"
+    },
+    {
+        "prompt": "What is the Google Brain team?"
+    },
+    {
+        "prompt": "What were the key findings of Mary Ainsworth's Strange Situation experiment?"
+    },
+    {
+        "prompt": "Who is Norman Shumway?"
+    },
+    {
+        "prompt": "What is the purpose of the I-485 Form in US Immigration Law?"
+    },
+    {
+        "prompt": "What is the controversy surrounding Google's Project Maven with the Department of Defense?"
+    },
+    {
+        "prompt": "Who is the character Geralt of Rivia from The Witcher series?"
+    },
+    {
+        "prompt": "Who is Simone Biles?"
+    },
+    {
+        "prompt": "Can you give me details about the Institute of Management Accountants (IMA)?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Google's Project Maven?"
+    },
+    {
+        "prompt": "Who is Jean-Martin Charcot?"
+    },
+    {
+        "prompt": "Who is Tim Cook and what is his relation to Apple Inc.?"
+    },
+    {
+        "prompt": "What does the T Visa under US Immigration Law involve?"
+    },
+    {
+        "prompt": "Who is Georg Wilhelm Friedrich Hegel?"
+    },
+    {
+        "prompt": "How did the notion of sustainability feature in Patagonia's \"Don't Buy This Jacket\" marketing campaign?"
+    },
+    {
+        "prompt": "What took place during the fall of the Berlin Wall in 1989?"
+    },
+    {
+        "prompt": "Who is Sarah Paoletti in the field of Immigration Law?"
+    },
+    {
+        "prompt": "Can you tell me about The Louvre Museum?"
+    },
+    {
+        "prompt": "Tell me about the Dead Sea."
+    },
+    {
+        "prompt": "Who is Ivy Lee and his contributions to the field of public relations?"
+    },
+    {
+        "prompt": "What is the controversy involving the Theranos blood testing scandal?"
+    },
+    {
+        "prompt": "What is the Pech Merle Cave?"
+    },
+    {
+        "prompt": "Who is Theodor W. Adorno?"
+    },
+    {
+        "prompt": "Who is David Hume?"
+    },
+    {
+        "prompt": "Who is Yoshihiro Kawaoka?"
+    },
+    {
+        "prompt": "Who is Florence Nightingale?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the genetic modification of babies by Chinese scientist He Jiankui?"
+    },
+    {
+        "prompt": "How is the United States related to the East Asia Summit (EAS)?"
+    },
+    {
+        "prompt": "What is the festival \"Bonnaroo Music and Arts Festival\"?"
+    },
+    {
+        "prompt": "Who is Zalmay Khalilzad?"
+    },
+    {
+        "prompt": "What is the Turi Create framework?"
+    },
+    {
+        "prompt": "Who is Justice Thurgood Marshall?"
+    },
+    {
+        "prompt": "What do you know about the Baha'i House of Worship in Wilmette?"
+    },
+    {
+        "prompt": "Who is Priyanka Chopra?"
+    },
+    {
+        "prompt": "Who is Richard Holbrooke?"
+    },
+    {
+        "prompt": "Who is David Ho?"
+    },
+    {
+        "prompt": "Can you give me details about the American Institute of Certified Public Accountants?"
+    },
+    {
+        "prompt": "Who is Natalie Portman?"
+    },
+    {
+        "prompt": "What is the Sloan Kettering Institute?"
+    },
+    {
+        "prompt": "What is known about the North Atlantic Treaty Organization (NATO)?"
+    },
+    {
+        "prompt": "What information can you share about the Geneva Conventions?"
+    },
+    {
+        "prompt": "What are the specifics of IBM's \"Smarter Planet\" marketing campaign?"
+    },
+    {
+        "prompt": "What can you tell me about the Transiting Exoplanet Survey Satellite?"
+    },
+    {
+        "prompt": "Can you tell me about the Fluke 87V Industrial Multimeter?"
+    },
+    {
+        "prompt": "Who is George Herbert Mead?"
+    },
+    {
+        "prompt": "Who is Adrian Lamo?"
+    },
+    {
+        "prompt": "Could you tell me about the specific events related to the bombing of Pearl Harbor during the Second World War?"
+    },
+    {
+        "prompt": "What is the NVidia GeForce RTX 3080 graphics card?"
+    },
+    {
+        "prompt": "What is the controversy around the Enron scandal?"
+    },
+    {
+        "prompt": "What is the function of the Bank of Japan?"
+    },
+    {
+        "prompt": "Who is Sheryl Sandberg and what is her role at Facebook?"
+    },
+    {
+        "prompt": "What is the album \"Sgt. Pepper's Lonely Hearts Club Band\" by The Beatles?"
+    },
+    {
+        "prompt": "Who is Voltaire?"
+    },
+    {
+        "prompt": "Who is Dr. Virginia Apgar?"
+    },
+    {
+        "prompt": "What are the features and capabilities of the Allen-Bradley PowerFlex 4M AC Drive in motor speed control?"
+    },
+    {
+        "prompt": "How did Starbucks' public relations department respond to the arrests of two black men in Philadelphia in 2018?"
+    },
+    {
+        "prompt": "What steps did Boeing's public relations team take to address safety concerns following the 737 MAX crashes in 2018 and 2019?"
+    },
+    {
+        "prompt": "What is the Green Jacket in the Masters Golf Tournament?"
+    },
+    {
+        "prompt": "What can you tell me about the Dome of the Rock in Jerusalem?"
+    },
+    {
+        "prompt": "What strategies did BP utilize in the public relations aftermath of the Deepwater Horizon oil spill in 2010?"
+    },
+    {
+        "prompt": "What can you tell me about the Battle of Hastings?"
+    },
+    {
+        "prompt": "What was the specific approach used by Chipotle for their \"Cultivating Thought\" marketing campaign?"
+    },
+    {
+        "prompt": "Who is Timoth\u00e9e Chalamet?"
+    },
+    {
+        "prompt": "Can you explain what happened during the Suez Canal Crisis in 1956?"
+    },
+    {
+        "prompt": "Who is Maria Sharapova?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Facebook Live killer?"
+    },
+    {
+        "prompt": "Who is Ambroise Par\u00e9?"
+    },
+    {
+        "prompt": "What is the secure communications platform Signal?"
+    },
+    {
+        "prompt": "Who is Raymond Kurzweil?"
+    },
+    {
+        "prompt": "What is the cybersecurity tool Wireshark?"
+    },
+    {
+        "prompt": "Who is Hippocrates?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the global bank HSBC's money laundering scandal?"
+    },
+    {
+        "prompt": "Who is Cyrus D. Mehta in the field of Immigration Law?"
+    },
+    {
+        "prompt": "What do you know about the Sloan Digital Sky Survey (SDSS)?"
+    },
+    {
+        "prompt": "What is the Boston Marathon?"
+    },
+    {
+        "prompt": "Who is Judge Judith Sheindlin?"
+    },
+    {
+        "prompt": "Who is Rudolf Virchow?"
+    },
+    {
+        "prompt": "Who is Chief Justice John Roberts?"
+    },
+    {
+        "prompt": "What can you tell me about the Gunpowder Plot?"
+    },
+    {
+        "prompt": "Who is Jim Hackett and what was his role at Ford Motor Company?"
+    },
+    {
+        "prompt": "What can you tell me about the Panama Canal?"
+    },
+    {
+        "prompt": "Who is Henry Kissinger and what is his contribution to U.S. foreign policy?"
+    },
+    {
+        "prompt": "Can you provide information about the accounting software FreshBooks? "
+    },
+    {
+        "prompt": "Who is Benedict Cumberbatch?"
+    },
+    {
+        "prompt": "What can you tell me about the execution of Marie Antoinette?"
+    },
+    {
+        "prompt": "Who is William Osler?"
+    },
+    {
+        "prompt": "What is the Merck & Co., Inc.?"
+    },
+    {
+        "prompt": "What can you tell me about the management style of Ursula Burns during her time as CEO of Xerox?"
+    },
+    {
+        "prompt": "Who is lawyer Johnny Cochran?"
+    },
+    {
+        "prompt": "Who is Bertrand Russell?"
+    },
+    {
+        "prompt": "What is the Arduino Uno board?"
+    },
+    {
+        "prompt": "What is the game \"The Legend of Zelda: Breath of the Wild\"?"
+    },
+    {
+        "prompt": "Who is Chris Evans?"
+    },
+    {
+        "prompt": "What is the video game developer \"FromSoftware\"?"
+    },
+    {
+        "prompt": "Who is Anthony Giddens?"
+    },
+    {
+        "prompt": "Who is Stamen Grigorov?"
+    },
+    {
+        "prompt": "Can you provide information on the African Export\u2013Import Bank?"
+    },
+    {
+        "prompt": "What is the controversy surrounding Monsanto's production and sale of Roundup weedkiller?"
+    },
+    {
+        "prompt": "Who is Dr. Paul Farmer?"
+    },
+    {
+        "prompt": "Who is Daniel Kahneman in the field of behavioral economics?"
+    },
+    {
+        "prompt": "What is the Moai of Easter Island?"
+    },
+    {
+        "prompt": "Who is the singer \"Billie Eilish\"?"
+    },
+    {
+        "prompt": "Can you tell me about the Swaminarayan Akshardham in Delhi in Hinduism?"
+    },
+    {
+        "prompt": "What can you tell me about the Dodo bird?"
+    },
+    {
+        "prompt": "Who is Ferdinand T\u00f6nnies?"
+    },
+    {
+        "prompt": "Who is lawyer Clarence Darrow?"
+    },
+    {
+        "prompt": "Can you tell me about the Cerro Tololo Inter-American Observatory in Chile?"
+    },
+    {
+        "prompt": "Who is Michel Foucault?"
+    },
+    {
+        "prompt": "Can you tell me about the Western Wall in Jerusalem?"
+    },
+    {
+        "prompt": "Who is Linus Pauling and what is his contribution to the field of Chemistry?"
+    },
+    {
+        "prompt": "Can you provide information about the Certified General Accountants Association of Canada?"
+    },
+    {
+        "prompt": "Can you tell me about the accounting software Sage 50? "
+    },
+    {
+        "prompt": "What can you tell me about the European X-Ray Free-Electron Laser facility?"
+    },
+    {
+        "prompt": "What led to Frank Lloyd Wright's design choice for the circular shape of the Guggenheim Museum in New York City?"
+    },
+    {
+        "prompt": "What is the Spitzer Space Telescope?"
+    },
+    {
+        "prompt": "Could you explain what the Herschel Space Observatory is?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Exxon Valdez oil spill?"
+    },
+    {
+        "prompt": "Can you tell me about the Bank for International Settlements?"
+    },
+    {
+        "prompt": "Who is Gertrude B. Elion and how has her groundbreaking work on the synthesis of medical drugs from regular compounds influenced pharmaceutical chemistry?"
+    },
+    {
+        "prompt": "Who is Thomas E. Moseley in the field of Immigration Law?"
+    },
+    {
+        "prompt": "What is the Polio epidemic of 1952?"
+    },
+    {
+        "prompt": "Who is Zygmunt Bauman?"
+    },
+    {
+        "prompt": "Who is Andreas Vesalius?"
+    },
+    {
+        "prompt": "What occurred during the Iran hostage crisis?"
+    },
+    {
+        "prompt": "Who is Lil Nas X?"
+    },
+    {
+        "prompt": "Who is Paul Langerhans?"
+    },
+    {
+        "prompt": "Who is Justice Sandra Day O'Connor?"
+    },
+    {
+        "prompt": "Can you tell me about the role of Harold Burson in founding Burson-Marsteller?"
+    },
+    {
+        "prompt": "Can you describe what happened in the Apollo 13 mission?"
+    },
+    {
+        "prompt": "What is the movie 'Pulp Fiction'?"
+    },
+    {
+        "prompt": "What is the music instrument \"Theremin\"?"
+    },
+    {
+        "prompt": "Who is John Bolton?"
+    },
+    {
+        "prompt": "What is the function of the Agilent 34401A Digital Multimeter within an electrical system?"
+    },
+    {
+        "prompt": "Who is Euclid?"
+    },
+    {
+        "prompt": "Can you tell me about the Lumbini in Nepal in Buddhism?"
+    },
+    {
+        "prompt": "What is the Indianapolis 500?"
+    },
+    {
+        "prompt": "What is the Bronze Age Nuragic civilization?"
+    },
+    {
+        "prompt": "Can you give me details about the Financial Accounting Standards Board (FASB)?"
+    },
+    {
+        "prompt": "Who is Jodie Comer?"
+    },
+    {
+        "prompt": "What can you tell me about the Andes Mountains?"
+    },
+    {
+        "prompt": "What can you tell me about the Dead Sea?"
+    },
+    {
+        "prompt": "What can you tell me about the Bird of Paradise flower?"
+    },
+    {
+        "prompt": "What is the recording studio \"Abbey Road Studios\"?"
+    },
+    {
+        "prompt": "Who is Michael Atiyah?"
+    },
+    {
+        "prompt": "What is the movie 'The Big Sick'?"
+    },
+    {
+        "prompt": "What is the movie 'Boyhood'?"
+    },
+    {
+        "prompt": "What can you tell me about the Haymarket Riot?"
+    },
+    {
+        "prompt": "Can you tell me about the Great Wall of China?"
+    },
+    {
+        "prompt": "Could you tell me about the specific events that took place during the Enigma Machine's capture in 1941?"
+    },
+    {
+        "prompt": "Who is Sigmund Freud and how has his psychoanalytic theory influenced the interpretation of human behavior and mental processes?"
+    },
+    {
+        "prompt": "Who is Georg Cantor?"
+    },
+    {
+        "prompt": "What is the role of the Honeywell UDC2500 Universal Digital Controller in temperature regulation systems?"
+    },
+    {
+        "prompt": "Who is Albert Schweitzer?"
+    },
+    {
+        "prompt": "What was the significance of the Yalta Conference in U.S. foreign policy?"
+    },
+    {
+        "prompt": "What can you tell me about the Arctic Circle?"
+    },
+    {
+        "prompt": "Who is Mia Hamm?"
+    },
+    {
+        "prompt": "What is the Andromeda Galaxy?"
+    },
+    {
+        "prompt": "What can you tell me about the assassination of Archduke Franz Ferdinand?"
+    },
+    {
+        "prompt": "Can you describe what occurred during the Battle of Normandy in 1944?"
+    },
+    {
+        "prompt": "What is the Ottawa Treaty and what was the US stance on it?"
+    },
+    {
+        "prompt": "Who is Simone de Beauvoir?"
+    },
+    {
+        "prompt": "What is the purpose of the Form N-400 in US Immigration Law?"
+    },
+    {
+        "prompt": "What is the movie 'Call Me By Your Name'?"
+    },
+    {
+        "prompt": "Can you provide details about the International Tribunal for the Law of the Sea?"
+    },
+    {
+        "prompt": "What is the cybersecurity event Black Hat Conference?"
+    },
+    {
+        "prompt": "What was the controversy related to Purdue Pharma's marketing of OxyContin?"
+    },
+    {
+        "prompt": "Can you explain the strategy of IKEA's \"Where Life Happens\" advertising campaign?"
+    },
+    {
+        "prompt": "Can you tell me about the Church of Scientology's Flag Building?"
+    },
+    {
+        "prompt": "What is the Gran Sasso National Laboratory?"
+    },
+    {
+        "prompt": "What is Microsoft's Azure Machine Learning Studio?"
+    },
+    {
+        "prompt": "What is the Hendra virus outbreak of 1994 in Australia?"
+    },
+    {
+        "prompt": "What can you tell me about the Rome Statute?"
+    },
+    {
+        "prompt": "What is the controversy behind Nestle's baby milk scandal?"
+    },
+    {
+        "prompt": "What does the Scotia International Limited company do?"
+    },
+    {
+        "prompt": "What happened during the Milgram Obedience Experiment?"
+    },
+    {
+        "prompt": "Can you provide information about the Large Underground Xenon (LUX) experiment?"
+    },
+    {
+        "prompt": "Can you provide an overview of the World Bank Group?"
+    },
+    {
+        "prompt": "What is the secure communication app Signal?"
+    },
+    {
+        "prompt": "What is the role of the Central Bank of Russia?"
+    },
+    {
+        "prompt": "What is the role of the United Nations in global affairs?"
+    },
+    {
+        "prompt": "Could you provide information about the Caltech Submillimeter Observatory (CSO)?"
+    },
+    {
+        "prompt": "Can you tell me about the Lotus Temple in the Bah\u00e1\u02bc\u00ed Faith?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the BP oil spill in the Gulf of Mexico in 2010?"
+    },
+    {
+        "prompt": "What is the purpose of the I-130 Petition for Alien Relative in US Immigration Law?"
+    },
+    {
+        "prompt": "What is the Chauvet-Pont-d'Arc Cave?"
+    },
+    {
+        "prompt": "What is the encryption tool VeraCrypt?"
+    },
+    {
+        "prompt": "Who is Norbert Elias?"
+    },
+    {
+        "prompt": "What is the IBM Watson AI?"
+    },
+    {
+        "prompt": "What is the Keras deep learning library?"
+    },
+    {
+        "prompt": "Can you give me information about Warren Buffet's investment in Berkshire Hathaway?"
+    },
+    {
+        "prompt": "Can you give me details about the Certified Management Accountant (CMA) certification?"
+    },
+    {
+        "prompt": "What do you know about the Wailing Wall in Jerusalem in Judaism?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the My Lai Massacre during the Vietnam War?"
+    },
+    {
+        "prompt": "Who is Jacques Derrida?"
+    },
+    {
+        "prompt": "What can you tell me about Antoni Gaudi's renowned project, the Sagrada Familia?"
+    },
+    {
+        "prompt": "What is the United States' stance on the Israeli-Palestinian conflict?"
+    },
+    {
+        "prompt": "Can you tell me about the Organisation for Economic Co-operation and Development?"
+    },
+    {
+        "prompt": "What can you tell me about the Mariana Trench?"
+    },
+    {
+        "prompt": "What can you tell me about the Boston Tea Party?"
+    },
+    {
+        "prompt": "What is the IBM Watson system?"
+    },
+    {
+        "prompt": "What can you tell me about the Portuguese Man o' War?"
+    },
+    {
+        "prompt": "Who is Ryan Reynolds?"
+    },
+    {
+        "prompt": "What is the Raspberry Pi 4 Model B?"
+    },
+    {
+        "prompt": "Can you tell me about the Rohde & Schwarz CMW500 Wideband Radio Communication Tester?"
+    },
+    {
+        "prompt": "Who is Terence Tao?"
+    },
+    {
+        "prompt": "Who is Dr. James Parkinson?"
+    },
+    {
+        "prompt": "Who is Charles Horton Cooley?"
+    },
+    {
+        "prompt": "What is the video game \"Cyberpunk 2077\"?"
+    },
+    {
+        "prompt": "What were the key messages of Adidas' \"Impossible is Nothing\" advertising campaign?"
+    },
+    {
+        "prompt": "What is the movie 'The Grand Budapest Hotel'?"
+    },
+    {
+        "prompt": "How did United Airlines' public relations team handle the fallout of a passenger being dragged off the flight in 2017?"
+    },
+    {
+        "prompt": "What is the Augusta National Golf Club?"
+    },
+    {
+        "prompt": "Who is Robert Tappan Morris?"
+    },
+    {
+        "prompt": "What is the Amazon Sagemaker service for machine learning?"
+    },
+    {
+        "prompt": "What is the Fields Medal?"
+    },
+    {
+        "prompt": "What are the main responsibilities of the African Development Bank Group?"
+    },
+    {
+        "prompt": "What can you tell me about the Ural Mountains?"
+    },
+    {
+        "prompt": "What is the Bruker's Nuclear Magnetic Resonance (NMR) Spectrometer popularly used for in structural analysis of organic compounds?"
+    },
+    {
+        "prompt": "Who is Grace Hopper?"
+    },
+    {
+        "prompt": "Can you give me details about the Certified Internal Auditor (CIA) certification?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the use of torture at Abu Ghraib prison?"
+    },
+    {
+        "prompt": "Who is Abraham Maslow in the field of Humanistic Psychology?"
+    },
+    {
+        "prompt": "What underpinned the design choice for the Shard skyscraper in London, designed by Renzo Piano?"
+    },
+    {
+        "prompt": "Who is Hiroshi Motomura in the field of Immigration Law?"
+    },
+    {
+        "prompt": "Who is Thomas Wellems?"
+    },
+    {
+        "prompt": "Can you describe the Giza Pyramid Complex?"
+    },
+    {
+        "prompt": "Who is Thorstein Veblen?"
+    },
+    {
+        "prompt": "What is Project Loon by Alphabet Inc.?"
+    },
+    {
+        "prompt": "What is the controversy regarding Apple's tax avoidance schemes?"
+    },
+    {
+        "prompt": "What was Peter Drucker's role at General Motors?"
+    },
+    {
+        "prompt": "What is the significance of the Sagrada Familia in Barcelona?"
+    },
+    {
+        "prompt": "Who is the pianist \"Ryuichi Sakamoto\"?"
+    },
+    {
+        "prompt": "Can you provide information about the integrated accounting system Tally.ERP 9?"
+    },
+    {
+        "prompt": "Who is Fritz Haber, known for the Haber process?"
+    },
+    {
+        "prompt": "Can you provide information about the Sarbanes-Oxley Act 2002?"
+    },
+    {
+        "prompt": "Who is Billie Jean King?"
+    },
+    {
+        "prompt": "Who is Robert G. Webster?"
+    },
+    {
+        "prompt": "What can you tell me about the Quokka?"
+    },
+    {
+        "prompt": "What is the Abel Prize?"
+    },
+    {
+        "prompt": "Can you provide some information about the UN Convention on the Law of the Sea?"
+    },
+    {
+        "prompt": "Who is Stephen Yale-Loehr?"
+    },
+    {
+        "prompt": "What is the video game \"Super Smash Bros. Ultimate\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Galapagos Islands?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the privacy breaches in the Facebook-Cambridge Analytica scandal?"
+    },
+    {
+        "prompt": "What can you tell me about the Yangtze River?"
+    },
+    {
+        "prompt": "Who is the conductor \"Gustavo Dudamel\"?"
+    },
+    {
+        "prompt": "Who is John Negroponte in relation to U.S. foreign policy?"
+    },
+    {
+        "prompt": "Who is the character Clementine from the game series The Walking Dead?"
+    },
+    {
+        "prompt": "Can you provide an introduction to the design firm Skidmore, Owings & Merrill?"
+    },
+    {
+        "prompt": "Can you tell me about the Square Kilometer Array (SKA) telescope?"
+    },
+    {
+        "prompt": "Who is Andrew Wiles?"
+    },
+    {
+        "prompt": "Who is Tom Brady?"
+    },
+    {
+        "prompt": "What is the Intel Core i7 processor?"
+    },
+    {
+        "prompt": "What is the controversy involving Volkswagen's emissions scandal?"
+    },
+    {
+        "prompt": "Who is Leonhard Euler?"
+    },
+    {
+        "prompt": "Who is Isaac Newton?"
+    },
+    {
+        "prompt": "What can you tell me about the Ghost Orchid?"
+    },
+    {
+        "prompt": "Who is Hippocrates?"
+    },
+    {
+        "prompt": "What can you tell me about the design of the Flatiron Building in New York, designed by Daniel Burnham?"
+    },
+    {
+        "prompt": "Who is Philip Zimbardo?"
+    },
+    {
+        "prompt": "What is known about the Kyoto Protocol?"
+    },
+    {
+        "prompt": "What can you tell me about the Suez Canal Crisis?"
+    },
+    {
+        "prompt": "Who is Dorothy Hodgkin and how has her development of protein crystallography techniques influenced the study of biochemistry and structural biology?"
+    },
+    {
+        "prompt": "Who is Julius Evola?"
+    },
+    {
+        "prompt": "What is the purpose of the EOIR-26, Notice of Appeal from a Decision of an Immigration Judge, in US Immigration Law?"
+    },
+    {
+        "prompt": "Who is lawyer David Boies?"
+    },
+    {
+        "prompt": "Can you tell me about the World Trade Organization's Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)?"
+    },
+    {
+        "prompt": "What tactics did the public relations team at Wells Fargo use to regain public trust following their fraudulent accounts scandal in 2016?"
+    },
+    {
+        "prompt": "What is the opera \"The Magic Flute\"?"
+    },
+    {
+        "prompt": "What is the cybersecurity event DEF CON?"
+    },
+    {
+        "prompt": "Who is Judge Joseph Wapner?"
+    },
+    {
+        "prompt": "Who is Karl Mannheim?"
+    },
+    {
+        "prompt": "What can you tell me about the Peripatus (velvet worm)?"
+    },
+    {
+        "prompt": "Who is Bhagwan Swaminarayan in Swaminarayan Hinduism?"
+    },
+    {
+        "prompt": "What is the jazz club \"Blue Note\"?"
+    },
+    {
+        "prompt": "Can you describe the Statue of Christ the Redeemer in Brazil?"
+    },
+    {
+        "prompt": "What is the hacking collective Anonymous?"
+    },
+    {
+        "prompt": "What can you tell me about the Kakapo?"
+    },
+    {
+        "prompt": "Who is Elizabeth Loftus known for her work in memory? "
+    },
+    {
+        "prompt": "Who is Paul Ekman in the study of emotional and facial expressions?"
+    },
+    {
+        "prompt": "What were the events that transpired during the El Chichon volcanic eruption in 1982?"
+    },
+    {
+        "prompt": "What do you know about the Relativistic Heavy Ion Collider (RHIC)?"
+    },
+    {
+        "prompt": "Who is Noam Chomsky in the field of cognitive psychology?"
+    },
+    {
+        "prompt": "What is known about the design and construction of The Great Wall of China?"
+    },
+    {
+        "prompt": "What can you tell me about the Corpse Flower?"
+    },
+    {
+        "prompt": "What was the basis of Dove's \"Real Beauty\" marketing campaign?"
+    },
+    {
+        "prompt": "Can you provide information about the Federal Accounting Standards Advisory Board (FASAB)?"
+    },
+    {
+        "prompt": "What is the function of the I-589, Application for Asylum and for Withholding of Removal in US Immigration Law?"
+    },
+    {
+        "prompt": "What does the International Organization of Securities Commissions do?"
+    },
+    {
+        "prompt": "What can you tell me about Mount Fuji?"
+    },
+    {
+        "prompt": "Who is Samantha Power in the context of U.S. foreign policy?"
+    },
+    {
+        "prompt": "What can you tell me about Yellowstone National Park?"
+    },
+    {
+        "prompt": "Who is Carl Linnaeus?"
+    },
+    {
+        "prompt": "What was the central theme of Red Bull's \"Stratos\" experiential marketing campaign?"
+    },
+    {
+        "prompt": "What is the movie 'Blade Runner 2049'?"
+    },
+    {
+        "prompt": "What can you tell me about the assassination of Martin Luther King Jr.?"
+    },
+    {
+        "prompt": "What is the Olduvai Gorge?"
+    },
+    {
+        "prompt": "Can you tell me about the Inter-American Development Bank?"
+    },
+    {
+        "prompt": "What was the purpose of Operation Just Cause?"
+    },
+    {
+        "prompt": "Who is Richard N. Haass?"
+    },
+    {
+        "prompt": "Who is the cybersecurity analyst Kevin Mitnick?"
+    },
+    {
+        "prompt": "Tell me about the law firm Fragomen, Del Rey, Bernsen & Loewy."
+    },
+    {
+        "prompt": "What transpired during the Exxon Valdez oil spill in 1989?"
+    },
+    {
+        "prompt": "Can you provide information on the company PricewaterhouseCoopers?"
+    },
+    {
+        "prompt": "Who is Michael Wildes?"
+    },
+    {
+        "prompt": "What is the Kaaba in Islam?"
+    },
+    {
+        "prompt": "What can you tell me about the Aye-aye?"
+    },
+    {
+        "prompt": "What is the movie 'Argo'?"
+    },
+    {
+        "prompt": "Can you tell me about the U.S. Federal Reserve System?"
+    },
+    {
+        "prompt": "Could you provide information about the Spallation Neutron Source (SNS)?"
+    },
+    {
+        "prompt": "Who is Francis Crick?"
+    },
+    {
+        "prompt": "Who is Arlie Hochschild?"
+    },
+    {
+        "prompt": "What can you tell me about the Red Panda?"
+    },
+    {
+        "prompt": "Who is Ira J. Kurzban?"
+    },
+    {
+        "prompt": "Who is Harold Ridley?"
+    },
+    {
+        "prompt": "What is DOW Chemical Company known for in the industry of chemical manufacturing?"
+    },
+    {
+        "prompt": "Can you describe the events that transpired during the assassination of Archduke Franz Ferdinand in 1914?"
+    },
+    {
+        "prompt": "What are the main components of Starbucks' \"Race Together\" marketing campaign?"
+    },
+    {
+        "prompt": "What does the Immigration Reform and Control Act of 1986 entail?"
+    },
+    {
+        "prompt": "Who is the character Marcus Fenix in the Gears of War series?"
+    },
+    {
+        "prompt": "Can you describe the usage of the Siemens Sinamics G120 AC Drive in conveyor system automation?"
+    },
+    {
+        "prompt": "Can you detail the aspects of Budweiser's \"Whassup\" marketing campaign?"
+    },
+    {
+        "prompt": "What can you tell me about the Palace of Versailles?"
+    },
+    {
+        "prompt": "Who is Elizabeth Blackburn?"
+    },
+    {
+        "prompt": "Can you explain what the Mahabodhi Temple is in Buddhism?"
+    },
+    {
+        "prompt": "What is the video game \"Dark Souls III\"?"
+    },
+    {
+        "prompt": "What is the software Norton Antivirus?"
+    },
+    {
+        "prompt": "What is the goal of Project Implicit, an online research project on implicit social cognition?"
+    },
+    {
+        "prompt": "Can you provide details about the International Covenant on Civil and Political Rights?"
+    },
+    {
+        "prompt": "What is the network scanning tool, Nmap?"
+    },
+    {
+        "prompt": "What is the Copa Am\u00e9rica?"
+    },
+    {
+        "prompt": "What can you tell me about the Great Chicago Fire?"
+    },
+    {
+        "prompt": "What can you tell me about the Danube River?"
+    },
+    {
+        "prompt": "Who is David A. Martin in the field of Immigration Law?"
+    },
+    {
+        "prompt": "Who is Ben Carson?"
+    },
+    {
+        "prompt": "What is the Tower of Jericho?"
+    },
+    {
+        "prompt": "Can you tell me about Norman Foster's work on the Apple Campus 2?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the firing of James Damore from Google?"
+    },
+    {
+        "prompt": "What is the album \"Dark Side of the Moon\"?"
+    },
+    {
+        "prompt": "What is the Fast.ai organization?"
+    },
+    {
+        "prompt": "Can you provide information about the V838 Monocerotis star?"
+    },
+    {
+        "prompt": "What are some of the characteristics of the Centre Pompidou designed by Renzo Piano and Richard Rogers?"
+    },
+    {
+        "prompt": "Can you provide details about the software QuickBooks?"
+    },
+    {
+        "prompt": "What was the structure of the narrative in Chipotle's \"Back to the Start\" marketing campaign?"
+    },
+    {
+        "prompt": "Who is Frederick Murphy?"
+    },
+    {
+        "prompt": "What is the Masters Golf Tournament?"
+    },
+    {
+        "prompt": "What is the Marburg virus outbreak of 1967?"
+    },
+    {
+        "prompt": "What is the video game \"Resident Evil Village\"?"
+    },
+    {
+        "prompt": "Who is Florence Nightingale?"
+    },
+    {
+        "prompt": "What is the Caffe library in the context of machine learning?"
+    },
+    {
+        "prompt": "How did McDonald's public relations department handle the \"Supersize Me\" documentary backlash in 2004?"
+    },
+    {
+        "prompt": "Can you tell me about the Twin Paradox experiment in the field of special relativity?"
+    },
+    {
+        "prompt": "Who is Daniel Radcliffe?"
+    },
+    {
+        "prompt": "What can you tell me about the Amazonian giant centipede?"
+    },
+    {
+        "prompt": "Tell me about the chemist Gilbert N. Lewis."
+    },
+    {
+        "prompt": "Who is Jack Dorsey and what is his role at Twitter?"
+    },
+    {
+        "prompt": "What is the ENIAC computer?"
+    },
+    {
+        "prompt": "What is the video game \"The Witcher 3: Wild Hunt\"?"
+    },
+    {
+        "prompt": "What is the video game \"Animal Crossing: New Horizons\"?"
+    },
+    {
+        "prompt": "What can you tell me about the International Criminal Court?"
+    },
+    {
+        "prompt": "Who is the pianist \"Lang Lang\"?"
+    },
+    {
+        "prompt": "Who is Ren\u00e9 Laennec?"
+    },
+    {
+        "prompt": "Who is Stanley Prusiner?"
+    },
+    {
+        "prompt": "Can you explain what the Siglent Technologies SDS1202X-E Digital Oscilloscope is?"
+    },
+    {
+        "prompt": "Who is Justice Neil Gorsuch?"
+    },
+    {
+        "prompt": "Can you detail the United Nations Human Rights Council?"
+    },
+    {
+        "prompt": "Who is the singer \"Billie Holiday\"?"
+    },
+    {
+        "prompt": "What can you tell me about the ITER (International Thermonuclear Experimental Reactor) project?"
+    },
+    {
+        "prompt": "What was the architectural inspiration behind the design of the Leaning Tower of Pisa?"
+    },
+    {
+        "prompt": "Can you tell me about the High Frequency Active Auroral Research Program (HAARP)?"
+    },
+    {
+        "prompt": "Who is Ian Lipkin?"
+    },
+    {
+        "prompt": "What is the controversy regarding Tesla's labor practices?"
+    },
+    {
+        "prompt": "Can you tell me about the London School of Business and Finance?"
+    },
+    {
+        "prompt": "Who is Immanuel Wallerstein?"
+    },
+    {
+        "prompt": "What is the movie 'Darkest Hour'?"
+    },
+    {
+        "prompt": "What can you tell me about the Great Barrier Reef?"
+    },
+    {
+        "prompt": "Who is Patricia Hill Collins?"
+    },
+    {
+        "prompt": "Who is Leon Wildes?"
+    },
+    {
+        "prompt": "What is the controversy regarding the Equifax data breach?"
+    },
+    {
+        "prompt": "Can you provide information about the star system, Alpha Centauri?"
+    },
+    {
+        "prompt": "What's the concept of Gillette's \"The Best a Man Can Get\" campaign?"
+    },
+    {
+        "prompt": "Can you tell me about the Atacama Large Millimeter/submillimeter Array (ALMA)?"
+    },
+    {
+        "prompt": "Who is Indra Nooyi?"
+    },
+    {
+        "prompt": "Who is Jean Piaget in the field of cognitive development?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Enron scandal?"
+    },
+    {
+        "prompt": "What is the Thematic Apperception Test (TAT) and how is it commonly utilized in uncovering a person's underlying thoughts, motivations, and perceptions?"
+    },
+    {
+        "prompt": "What is the video game \"League of Legends\"?"
+    },
+    {
+        "prompt": "What is the significance of the Tylenol Murders in the field of public relations?"
+    },
+    {
+        "prompt": "What is the Avian influenza A(H7N9) virus outbreak of 2013?"
+    },
+    {
+        "prompt": "What is the Shanidar Cave?"
+    },
+    {
+        "prompt": "What is the Royal Brompton & Harefield NHS Foundation Trust?"
+    },
+    {
+        "prompt": "What is the cybersecurity conference Black Hat Briefings?"
+    },
+    {
+        "prompt": "Who is Peter L. Berger?"
+    },
+    {
+        "prompt": "Who is Diogenes of Sinope?"
+    },
+    {
+        "prompt": "Who is Jennifer Lawrence?"
+    },
+    {
+        "prompt": "Who is Benjamin Spock?"
+    },
+    {
+        "prompt": "Who is Pierre-Simon Laplace?"
+    },
+    {
+        "prompt": "Who is Peter Singer?"
+    },
+    {
+        "prompt": "Who is David Buss in the field of evolutionary psychology?"
+    },
+    {
+        "prompt": "Who is Friedrich Nietzsche?"
+    },
+    {
+        "prompt": "Can you describe the Grand Canyon?"
+    },
+    {
+        "prompt": "Can you provide information about the BaBar Experiment at the SLAC National Accelerator Laboratory?"
+    },
+    {
+        "prompt": "Who is Sachin Tendulkar?"
+    },
+    {
+        "prompt": "What strategy did Volkswagen's public relations team implement to address the \"Dieselgate\" emission scandal in 2015?"
+    },
+    {
+        "prompt": "What is the endpoint security company, CrowdStrike?"
+    },
+    {
+        "prompt": "What happened in the incident of the Hindenburg disaster?"
+    },
+    {
+        "prompt": "Who is Emilia Chico?"
+    },
+    {
+        "prompt": "Could you provide some details about the Hague Conventions?"
+    },
+    {
+        "prompt": "Can you tell me about the assassination of Martin Luther King Jr.?"
+    },
+    {
+        "prompt": "What are the capabilities of the Texas Instruments LM741 Operational Amplifier in signal processing?"
+    },
+    {
+        "prompt": "How did Apple's public relations team handle the criticism related to the \u201cBatterygate\u201d throttling controversy in 2017?"
+    },
+    {
+        "prompt": "Who is Justice Ruth Bader Ginsburg?"
+    },
+    {
+        "prompt": "What is the function of the U-Visa under US Immigration Law?"
+    },
+    {
+        "prompt": "Who is lawyer Alan Dershowitz?"
+    },
+    {
+        "prompt": "What is the DeepMind Technologies company?"
+    },
+    {
+        "prompt": "What can you tell me about the Giant Sequoia?"
+    },
+    {
+        "prompt": "Could you explain what the Kepler Space Telescope is?"
+    },
+    {
+        "prompt": "What incidents occurred during the PepsiCo's 'Crystal Pepsi' product launch and market response?"
+    },
+    {
+        "prompt": "Who is Lama Zopa Rinpoche?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the euthanasia of Terry Schiavo?"
+    },
+    {
+        "prompt": "Who is Linus Torvalds?"
+    },
+    {
+        "prompt": "What is the movie 'Gravity'?"
+    },
+    {
+        "prompt": "Who is Charlize Theron?"
+    },
+    {
+        "prompt": "Who is Madeleine Albright?"
+    },
+    {
+        "prompt": "Who is George Pimentel and how has his development of the chemical laser modified the field of physical chemistry and spectroscopic analysis?"
+    },
+    {
+        "prompt": "What can you tell me about the Hindenburg disaster?"
+    },
+    {
+        "prompt": "Who is Guru Nanak in Sikhism?"
+    },
+    {
+        "prompt": "What is the Heisman Trophy?"
+    },
+    {
+        "prompt": "What is the function of the Allen-Bradley 1769-L32E CompactLogix Controller in an industrial control system?"
+    },
+    {
+        "prompt": "Can you provide information on the Reserve Bank of India?"
+    },
+    {
+        "prompt": "Can you provide information about Mark Zuckerberg's role at Facebook?"
+    },
+    {
+        "prompt": "Who is Vilfredo Pareto?"
+    },
+    {
+        "prompt": "Tell me about the Church of the Holy Sepulchre in Jerusalem."
+    },
+    {
+        "prompt": "Who is Edward Jenner?"
+    },
+    {
+        "prompt": "Can you tell me about the 1984 Bhopal gas tragedy and Union Carbide's public relations response?"
+    },
+    {
+        "prompt": "Who is Joseph Lister?"
+    },
+    {
+        "prompt": "What does the L-1 Intracompany Transferee Executive or Manager visa program under US Immigration Law entail?"
+    },
+    {
+        "prompt": "Who is Alfred North Whitehead?"
+    },
+    {
+        "prompt": "Who is Ludwig Wittgenstein?"
+    },
+    {
+        "prompt": "What is the role of the Keysight N6700 Low-Profile Modular Power System in an electronic testing environment?"
+    },
+    {
+        "prompt": "Who is Satya Nadella?"
+    },
+    {
+        "prompt": "What is the controversy associated with the British Petroleum (BP) Deepwater Horizon oil spill?"
+    },
+    {
+        "prompt": "Who is Dimitri Mendeleev and what is his role in the development of the Periodic Table?"
+    },
+    {
+        "prompt": "Can you provide information about the Financial Crimes Enforcement Network (FinCEN)?"
+    },
+    {
+        "prompt": "What is the Pasteur Institute?"
+    },
+    {
+        "prompt": "What can you tell me about the Universal Declaration of Human Rights?"
+    },
+    {
+        "prompt": "What is the controversy surrounding the Bernard Madoff investment fraud?"
+    },
+    {
+        "prompt": "What can you tell me about the European Mantis?"
+    },
+    {
+        "prompt": "What can you tell me about the Boxer Rebellion?"
+    },
+    {
+        "prompt": "How did McDonald's handle public relations following the infamous \"hot coffee\" lawsuit in 1994?"
+    },
+    {
+        "prompt": "Can you provide details about the Journal of Accounting and Economics?"
+    },
+    {
+        "prompt": "Can you give me details about the Internal Revenue Service?"
+    },
+    {
+        "prompt": "What happened during the Rwandan Genocide in 1994?"
+    },
+    {
+        "prompt": "Can you provide information about the Treaty of Versailles?"
+    },
+    {
+        "prompt": "What is the SARS outbreak of 2002-2003?"
+    },
+    {
+        "prompt": "Can you tell me about the North American Free Trade Agreement?"
+    },
+    {
+        "prompt": "Who is David Baltimore?"
+    },
+    {
+        "prompt": "What is the vulnerability assessment tool Nessus?"
+    },
+    {
+        "prompt": "Could you provide insights into Chipotle's \"Food with Integrity\" marketing campaign?"
+    },
+    {
+        "prompt": "Who is Masayoshi Son and what is his relation to SoftBank Group Corp.?"
+    },
+    {
+        "prompt": "What was the reaction of Peloton's public relations team to the controversy surrounding their 2019 holiday commercial?"
+    },
+    {
+        "prompt": "What is the purpose of the National Instruments PXIe-1062Q chassis in a test and measurement system?"
+    },
+    {
+        "prompt": "Who is Edward A. Feigenbaum?"
+    },
+    {
+        "prompt": "What is the NVIDIA Deep Learning AI?"
+    },
+    {
+        "prompt": "Can you give me details about the accounting software Xero?"
+    },
+    {
+        "prompt": "What happened during Bill Gates' leadership at Microsoft?"
+    },
+    {
+        "prompt": "Can you tell me about the Asian Development Bank?"
+    },
+    {
+        "prompt": "What is TensorFlow machine learning platform?"
+    },
+    {
+        "prompt": "Can you tell me about Mount Everest?"
+    },
+    {
+        "prompt": "Who is Richard J. Roberts and how did his discovery of introns in eukaryotic DNA and the mechanism of gene-splicing revolutionize molecular biology and chemistry?"
+    },
+    {
+        "prompt": "Who is Ian Goodfellow?"
+    },
+    {
+        "prompt": "What is the BERT model in the field of machine learning?"
+    },
+    {
+        "prompt": "Can you provide information on the European Central Bank?"
+    },
+    {
+        "prompt": "Who is Atul Gawande?"
+    },
+    {
+        "prompt": "Can you tell me about Ernst & Young's Global Review?"
+    },
+    {
+        "prompt": "What is the significance of the Royal Society of Chemistry in the global chemistry community?"
+    },
+    {
+        "prompt": "What can you tell me about the Dreyfus Affair?"
+    },
+    {
+        "prompt": "Can you tell me about the Basilica of Our Lady of Guadalupe in Mexico in Catholic Christianity?"
+    },
+    {
+        "prompt": "Who is Dr. Christian Barnard?"
+    },
+    {
+        "prompt": "What is the Robert Koch Institute?"
+    },
+    {
+        "prompt": "What transpired in the course of the Tiananmen Square Massacre?"
+    },
+    {
+        "prompt": "What is the punk band \"The Ramones\"?"
+    },
+    {
+        "prompt": "Who is Max Theiler?"
+    },
+    {
+        "prompt": "Who is lawyer Gloria Allred?"
+    },
+    {
+        "prompt": "Can you tell me about the case of Loving v. Virginia?"
+    },
+    {
+        "prompt": "What is the Cathedral of Notre Dame in Paris in Catholic Christianity?"
+    },
+    {
+        "prompt": "Can you provide information on Frederick Law Olmsted's work on Central Park?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the human rights abuses in Guantanamo Bay detention camp?"
+    },
+    {
+        "prompt": "Who is Joaquin Phoenix?"
+    },
+    {
+        "prompt": "Can you describe the Great Barrier Reef?"
+    },
+    {
+        "prompt": "What was the role of storytelling in Airbnb's \"Live There\" advertising campaign?"
+    },
+    {
+        "prompt": "Who is Friedrich Engels?"
+    },
+    {
+        "prompt": "What is the Chandra X-ray Observatory?"
+    },
+    {
+        "prompt": "What can you tell me about Elon Musk's role at Tesla?"
+    },
+    {
+        "prompt": "Who is John Napier?"
+    },
+    {
+        "prompt": "What do you know about the Super-Kamiokande detector?"
+    },
+    {
+        "prompt": "Can you tell me about the book \"Financial Shenanigans: How to Detect Accounting Gimmicks & Fraud in Financial Reports\"?"
+    },
+    {
+        "prompt": "Can you provide details about the International Accounting Standards Board?"
+    },
+    {
+        "prompt": "What is the operation and utility of the Microchip PIC32MX microcontroller in embedded applications?"
+    },
+    {
+        "prompt": "What was the architectural approach taken in the design of the Walt Disney Concert Hall in Los Angeles by Frank Gehry?"
+    },
+    {
+        "prompt": "Can you describe the functionalities of the Omron FQ2 Series Vision Sensor in an automation process?"
+    },
+    {
+        "prompt": "What can you tell me about the Great Fire of Rome?"
+    },
+    {
+        "prompt": "Who is Reed Hastings and what was his role at Netflix?"
+    },
+    {
+        "prompt": "What can you tell me about the Treaty of Tordesillas?"
+    },
+    {
+        "prompt": "What were the challenges in constructing the Sydney Opera House designed by J\u00f8rn Utzon?"
+    },
+    {
+        "prompt": "Give me an overview of the Federal Reserve Bank of San Francisco."
+    },
+    {
+        "prompt": "Who is Bonnie Gibson in the field of Immigration Law?"
+    },
+    {
+        "prompt": "What is the cybersecurity firm Kaspersky Lab?"
+    },
+    {
+        "prompt": "What is the Y2K bug?"
+    },
+    {
+        "prompt": "Who is lawyer F. Lee Bailey?"
+    },
+    {
+        "prompt": "What happened during the Korean Armistice Agreement negotiations?"
+    },
+    {
+        "prompt": "What is the Tomb of the Eagles?"
+    },
+    {
+        "prompt": "What is the European Extremely Large Telescope (E-ELT)?"
+    },
+    {
+        "prompt": "What is the movie 'The Big Short'?"
+    },
+    {
+        "prompt": "Who is Ahmed H. Zewail and how did his pioneering work in femtochemistry reshape the study of chemical reactions and their timescales?"
+    },
+    {
+        "prompt": "What were the key elements in Absolut Vodka's \"In An Absolut World\" advertising campaign?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Milgram Experiment?"
+    },
+    {
+        "prompt": "What is the Vince Lombardi Trophy?"
+    },
+    {
+        "prompt": "What can you tell me about the LIGO Scientific Collaboration (LSC)?"
+    },
+    {
+        "prompt": "Can you describe what happened during the politically-motivated Munich Massacre at the 1972 Summer Olympics?"
+    },
+    {
+        "prompt": "Who is Amma, the hugging saint?"
+    },
+    {
+        "prompt": "What is the Cassini-Huygens Spacecraft?"
+    },
+    {
+        "prompt": "Who is Nathan Wolfe?"
+    },
+    {
+        "prompt": "Who is Gottfried Wilhelm Leibniz?"
+    },
+    {
+        "prompt": "Who is Arthur Schopenhauer?"
+    },
+    {
+        "prompt": "What were the events that took place during the Bloody Sunday incident in Northern Ireland in 1972?"
+    },
+    {
+        "prompt": "What is the Asch Conformity Experiments, and how does it illustrate the influence of group pressure on individual judgment?"
+    },
+    {
+        "prompt": "Who was the lead architect for the development and design of the Burj Khalifa in Dubai?"
+    },
+    {
+        "prompt": "What is the King Faisal Specialist Hospital and Research Centre?"
+    },
+    {
+        "prompt": "Can you tell me about Mount Athos in Orthodox Christianity?"
+    },
+    {
+        "prompt": "Can you tell me about the tax prep company TurboTax?"
+    },
+    {
+        "prompt": "Can you tell me about the Comprehensive Nuclear-Test-Ban Treaty?"
+    },
+    {
+        "prompt": "What do you know about the Virgo gravitational-wave detector?"
+    },
+    {
+        "prompt": "What can you tell me about the Ayers Rock?"
+    },
+    {
+        "prompt": "Can you detail how the Guggenheim Museum Bilbao, designed by Frank Gehry, was conceived and built?"
+    },
+    {
+        "prompt": "What is the movie 'Mad Max: Fury Road'?"
+    },
+    {
+        "prompt": "Who is Yann LeCun?"
+    },
+    {
+        "prompt": "What is the company OpenAI?"
+    },
+    {
+        "prompt": "Who is lawyer Bryan Stevenson?"
+    },
+    {
+        "prompt": "What happened at the Battle of Dunkirk?"
+    },
+    {
+        "prompt": "What is the function of the Federal Reserve System in the United States?"
+    },
+    {
+        "prompt": "What is the Geneva Convention?"
+    },
+    {
+        "prompt": "Can you explain the functions of the Siemens Simatic S7-1200 PLC in process automation?"
+    },
+    {
+        "prompt": "What is the purpose of Stanford's Binet Intelligence Test in the field of child psychology?"
+    },
+    {
+        "prompt": "What can you tell me about the Eastern long-necked turtle?"
+    },
+    {
+        "prompt": "What is the malware removal tool Malwarebytes?"
+    },
+    {
+        "prompt": "Can you provide details about the Treaty on the Non-Proliferation of Nuclear Weapons?"
+    },
+    {
+        "prompt": "Who is the character Ezio Auditore from the game series \"Assassin's Creed\"?"
+    },
+    {
+        "prompt": "What does the Swiss National Bank do?"
+    },
+    {
+        "prompt": "Who were the Australopithecines?"
+    },
+    {
+        "prompt": "Who is Karl Popper?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Blackwater shootings in Iraq in 2007?"
+    },
+    {
+        "prompt": "What was the mission of Coca Cola's \"Open Happiness\" campaign?"
+    },
+    {
+        "prompt": "What is the role of Darley and Latane's Bystander Effect Experiment in understanding social behavior and decision making?"
+    },
+    {
+        "prompt": "What is the Wembley Stadium?"
+    },
+    {
+        "prompt": "Who is the music producer \"Quincy Jones\"?"
+    },
+    {
+        "prompt": "What events transpired during the Landing on Normandy, also known as D-Day?"
+    },
+    {
+        "prompt": "Who is Craig Venter?"
+    },
+    {
+        "prompt": "What do you know about the Dark Energy Survey?"
+    },
+    {
+        "prompt": "What can you tell me about Sundar Pichai's leadership at Google?"
+    },
+    {
+        "prompt": "Who is Martin Seligman in Positive Psychology?"
+    },
+    {
+        "prompt": "Can you explain the use of the National Instruments CompactRIO controller in control systems and data acquisition? "
+    },
+    {
+        "prompt": "Who is William James?"
+    },
+    {
+        "prompt": "Who is Carlos Ghosn and what is his relation to Nissan and Renault?"
+    },
+    {
+        "prompt": "What does the EB-5 Immigrant Investor Program under US Immigration Law entail?"
+    },
+    {
+        "prompt": "Who is the music video director \"Hype Williams\"?"
+    },
+    {
+        "prompt": "What is the Brigham and Women's Hospital?"
+    },
+    {
+        "prompt": "What is the movie 'Jojo Rabbit'?"
+    },
+    {
+        "prompt": "What is the video game company, \"Rockstar Games\"?"
+    },
+    {
+        "prompt": "Who is Srinivasa Ramanujan?"
+    },
+    {
+        "prompt": "Who is Herbert Blumer?"
+    },
+    {
+        "prompt": "What is the MERS-CoV outbreak of 2012?"
+    },
+    {
+        "prompt": "Who is the songwriter \"Bob Dylan\"?"
+    },
+    {
+        "prompt": "What is Eliezer Yudkowsky's Machine Intelligence Research Institute?"
+    },
+    {
+        "prompt": "Who is Zeno of Citium?"
+    },
+    {
+        "prompt": "Can you describe the Niagara Falls?"
+    },
+    {
+        "prompt": "Who is the guitarist \"Eric Clapton\"?"
+    },
+    {
+        "prompt": "Who is David \u00c9mile Durkheim?"
+    },
+    {
+        "prompt": "Can you describe the architecture of the Pantheon in Rome?"
+    },
+    {
+        "prompt": "Can you provide an overview of the Federal Reserve Bank of New York?"
+    },
+    {
+        "prompt": "What is the computer security incident management company, FireEye?"
+    },
+    {
+        "prompt": "What is the purpose of the Thermo Scientific Dionex Ion Chromatography system in chemical analysis?"
+    },
+    {
+        "prompt": "Can you tell me about Stonehenge?"
+    },
+    {
+        "prompt": "What can you tell me about the Mississippi River?"
+    },
+    {
+        "prompt": "Can you tell me about the GE Multilin 750 Relay in power system protection?"
+    },
+    {
+        "prompt": "What is the Cueva de las Manos?"
+    },
+    {
+        "prompt": "Who is Peter Piot?"
+    },
+    {
+        "prompt": "What is the game Undertale?"
+    },
+    {
+        "prompt": "Can you tell me about the asteroid Vesta?"
+    },
+    {
+        "prompt": "What is the Hantaan virus?"
+    },
+    {
+        "prompt": "Can you describe what happened during the Woodstock Music Festival in 1969?"
+    },
+    {
+        "prompt": "What can you tell me about the Grand Canyon?"
+    },
+    {
+        "prompt": "What is the cybersecurity compliance standard PCI DSS?"
+    },
+    {
+        "prompt": "What is the Camp David Accords?"
+    },
+    {
+        "prompt": "What is the music venue \"Red Rocks Amphitheatre\"?"
+    },
+    {
+        "prompt": "Who is Soren Kierkegaard?"
+    },
+    {
+        "prompt": "How did Tesla's public relations department respond to Elon Musk's controversial comments on Twitter in 2018?"
+    },
+    {
+        "prompt": "Can you tell me about the Event Horizon Telescope (EHT)?"
+    },
+    {
+        "prompt": "Can you outline the approach of GoPro's \"Be a Hero\" marketing campaign?"
+    },
+    {
+        "prompt": "What can you tell me about the Arab Spring?"
+    },
+    {
+        "prompt": "What are the key architectural features of the Notre-Dame Cathedral in Paris?"
+    },
+    {
+        "prompt": "What is known about the World Trade Organization?"
+    },
+    {
+        "prompt": "Who is lawyer Robert Shapiro?"
+    },
+    {
+        "prompt": "Who is Grigori Perelman?"
+    },
+    {
+        "prompt": "Who is Justice Brett Kavanaugh?"
+    },
+    {
+        "prompt": "What is the significance of the Amber Room?"
+    },
+    {
+        "prompt": "Who is Emile Durkheim?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the use of Agent Orange during the Vietnam War?"
+    },
+    {
+        "prompt": "Who is Erik Erikson known for his work on the stages of psychosocial development?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Watergate Scandal?"
+    },
+    {
+        "prompt": "Can you provide details about the Eaton Cutler-Hammer C30CNE Lighting Contactor in an electrical circuit system?"
+    },
+    {
+        "prompt": "What actions did the public relations team of FIFA take amid the 2015 corruption scandal?"
+    },
+    {
+        "prompt": "Could you provide some information about the Keck Observatory?"
+    },
+    {
+        "prompt": "Who is Justice Elena Kagan?"
+    },
+    {
+        "prompt": "What actions did Facebook's public relations team take in response to the Cambridge Analytica scandal in 2018?"
+    },
+    {
+        "prompt": "What do you know about the National Ignition Facility (NIF)?"
+    },
+    {
+        "prompt": "What can you tell me about the Battle of Agincourt?"
+    },
+    {
+        "prompt": "Who is Richard Dawkins?"
+    },
+    {
+        "prompt": "What is the video game \"Final Fantasy VII Remake\"?"
+    },
+    {
+        "prompt": "Who is the DJ \"David Guetta\"?"
+    },
+    {
+        "prompt": "Can you provide information on the Audit Analytics software?"
+    },
+    {
+        "prompt": "What can you tell me about Bora Bora Island?"
+    },
+    {
+        "prompt": "Who is Prerna Lal in the field of Immigration Law?"
+    },
+    {
+        "prompt": "Who is the drummer \"Neil Peart\"?"
+    },
+    {
+        "prompt": "Who is Andrew Ng?"
+    },
+    {
+        "prompt": "Who is Baruch Spinoza?"
+    },
+    {
+        "prompt": "What can you tell me about St. Peter's Basilica in the Vatican City?"
+    },
+    {
+        "prompt": "Who is Oliver Wendell Holmes Jr.?"
+    },
+    {
+        "prompt": "Who is Paul Ehrlich?"
+    },
+    {
+        "prompt": "Can you detail the strategy used in BMW's \"The Ultimate Driving Machine\" marketing campaign?"
+    },
+    {
+        "prompt": "What actions did PepsiCo's public relations team take in response to the backlash for the Kendall Jenner ad in 2017?"
+    },
+    {
+        "prompt": "Who is Paul Erd\u0151s?"
+    },
+    {
+        "prompt": "What is TensorFlow?"
+    },
+    {
+        "prompt": "Who is Charles Kuck in the field of Immigration Law?"
+    },
+    {
+        "prompt": "What is the password manager LastPass?"
+    },
+    {
+        "prompt": "Who is Tessa Reid in the field of Immigration Law?"
+    },
+    {
+        "prompt": "Can you provide an overview of the International Monetary Fund?"
+    },
+    {
+        "prompt": "What is the Amazon Web Services (AWS)?"
+    },
+    {
+        "prompt": "What is the James Webb Space Telescope?"
+    },
+    {
+        "prompt": "What is the significance of the Murchison Meteorite?"
+    },
+    {
+        "prompt": "What is the movie 'The Disaster Artist'?"
+    },
+    {
+        "prompt": "Who is Yoshua Bengio?"
+    },
+    {
+        "prompt": "What can you tell me about the Neptune's moon Triton?"
+    },
+    {
+        "prompt": "What is the controversy associated with Amazon's workplace conditions?"
+    },
+    {
+        "prompt": "What is the movie 'The Irishman'?"
+    },
+    {
+        "prompt": "Can you provide some information about the Palomar Observatory?"
+    },
+    {
+        "prompt": "What is Docker in computer science?"
+    },
+    {
+        "prompt": "What is the role of the Central Bank of the Republic of Turkey?"
+    },
+    {
+        "prompt": "Who is Aaron T. Beck known for his work in cognitive therapy?"
+    },
+    {
+        "prompt": "Who is Jack Welch and what was his role at General Electric?"
+    },
+    {
+        "prompt": "What is the Shimadzu Gas Chromatograph used for in the separation and analysis of volatile compounds?"
+    },
+    {
+        "prompt": "Can you tell me about the Financial Action Task Force on Money Laundering (FATF)?"
+    },
+    {
+        "prompt": "Who is Serena Williams?"
+    },
+    {
+        "prompt": "What transpired during the Soweto Uprising in South Africa?"
+    },
+    {
+        "prompt": "What can you tell me about the Battle of Gettysburg?"
+    },
+    {
+        "prompt": "What role does the Utah Test and Training Range play in the field of rocket propellant testing?"
+    },
+    {
+        "prompt": "What is the gaming company \"Blizzard Entertainment\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Namib Desert?"
+    },
+    {
+        "prompt": "What is the Megalithic Temples of Malta?"
+    },
+    {
+        "prompt": "What can you tell me about the invasion of Normandy?"
+    },
+    {
+        "prompt": "What is known about the Antarctic Treaty?"
+    },
+    {
+        "prompt": "Can you tell me about the Temple Mount in Jerusalem in Islam?"
+    },
+    {
+        "prompt": "Can you tell me about the Serengeti National Park?"
+    },
+    {
+        "prompt": "Who is Tom Hiddleston?"
+    },
+    {
+        "prompt": "Could you tell me about the Pulsar PSR B1919+21?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Flint Water Crisis in Michigan?"
+    },
+    {
+        "prompt": "What happened during the Bay of Pigs Invasion?"
+    },
+    {
+        "prompt": "What is the Cosquer Cave?"
+    },
+    {
+        "prompt": "Who is Dean Acheson and how is he associated with U.S. foreign policy?"
+    },
+    {
+        "prompt": "What is the Camp David Accords?"
+    },
+    {
+        "prompt": "Who is Dr. George Papanicolaou?"
+    },
+    {
+        "prompt": "What is the La Brea Tar Pits?"
+    },
+    {
+        "prompt": "Who is Sir William Osler?"
+    },
+    {
+        "prompt": "What can you tell me about the Maastricht Treaty?"
+    },
+    {
+        "prompt": "What is the gaming company \"Capcom\"?"
+    },
+    {
+        "prompt": "What does the B&K Precision 878B Dual Display LCR Meter help to measure?"
+    },
+    {
+        "prompt": "Can you explain the approach taken by Coca-Cola for their \"Share a Coke\" campaign?"
+    },
+    {
+        "prompt": "Who is Keanu Reeves?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Stanford University \"Persuasive Technology Lab\"?"
+    },
+    {
+        "prompt": "Can you provide information about the Laser Interferometer Gravitational-Wave Observatory (LIGO)?"
+    },
+    {
+        "prompt": "What can you tell me about the Antarctic Peninsula?"
+    },
+    {
+        "prompt": "Tell me about the Immigration Act of 1990."
+    },
+    {
+        "prompt": "What role did the public relations firm, Bell Pottinger, play in the South African Gupta family scandal?"
+    },
+    {
+        "prompt": "What is the PerkinElmer's Atomic Absorption Spectrometer (AAS) often employed for in quantitative analysis of metal ions in aqueous solutions?"
+    },
+    {
+        "prompt": "What is Tesler's Law of the Conservation of Complexity?"
+    },
+    {
+        "prompt": "Who is Yitang Zhang?"
+    },
+    {
+        "prompt": "What is the America's Cup?"
+    },
+    {
+        "prompt": "What is the movie 'The Shape of Water'?"
+    },
+    {
+        "prompt": "What is the controversy associated with the Lehman Brothers bankruptcy?"
+    },
+    {
+        "prompt": "What is the Giro d'Italia?"
+    },
+    {
+        "prompt": "Can you tell me about the Australian Securities and Investments Commission?"
+    },
+    {
+        "prompt": "Can you tell me about Deloitte Touche Tohmatsu Limited?"
+    },
+    {
+        "prompt": "How does the Eaton Powerware 9355 UPS perform in protecting critical systems from power disturbances?"
+    },
+    {
+        "prompt": "What can you tell me about Victoria Falls?"
+    },
+    {
+        "prompt": "What is the Scikit-learn library for machine learning?"
+    },
+    {
+        "prompt": "What is the movie 'The Florida Project'?"
+    },
+    {
+        "prompt": "Who is Shigeru Miyamoto?"
+    },
+    {
+        "prompt": "Can you describe the Statue of Liberty?"
+    },
+    {
+        "prompt": "What is the Clay Mathematics Institute?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Pfizer drug trials in Nigeria?"
+    },
+    {
+        "prompt": "Can you describe the Amazon Rainforest?"
+    },
+    {
+        "prompt": "What is the significance of the Taj Mahal?"
+    },
+    {
+        "prompt": "What is the antivirus software Avast?"
+    },
+    {
+        "prompt": "Who is Virginia Apgar?"
+    },
+    {
+        "prompt": "What is the Great Synagogue of Budapest in Judaism?"
+    },
+    {
+        "prompt": "Tell me about the company Sigma-Aldrich."
+    },
+    {
+        "prompt": "What is the movie 'Birdman'?"
+    },
+    {
+        "prompt": "Can you explain the ideas behind Apple's \"Think Different\" marketing campaign?"
+    },
+    {
+        "prompt": "What is the movie 'A Ghost Story'?"
+    },
+    {
+        "prompt": "Who is Judge Lance Ito?"
+    },
+    {
+        "prompt": "Can you tell me about Jay Carney's role as the head of public relations at Amazon during its various controversies?"
+    },
+    {
+        "prompt": "Can you detail the components of Amazon's \"Prime Day\" promotional event?"
+    },
+    {
+        "prompt": "Who is the character Master Chief in the Halo series?"
+    },
+    {
+        "prompt": "Can you provide information about the Orion Nebula?"
+    },
+    {
+        "prompt": "Who is Doja Cat?"
+    },
+    {
+        "prompt": "Who is Edward Jenner?"
+    },
+    {
+        "prompt": "What is the movie 'Schindler's List'?"
+    },
+    {
+        "prompt": "What is the University of Texas MD Anderson Cancer Center?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the shootings at Kent State University in 1970?"
+    },
+    {
+        "prompt": "What is the approach behind Google's \"Year in Search\" marketing strategy?"
+    },
+    {
+        "prompt": "Can you tell me about the TRIUMF, Canada's national particle accelerator facility?"
+    },
+    {
+        "prompt": "What is the Agilent High Performance Liquid Chromatography (HPLC) device used for in analytical chemistry?"
+    },
+    {
+        "prompt": "What is Mount Sinai Hospital?"
+    },
+    {
+        "prompt": "What is the movie 'Her'?"
+    },
+    {
+        "prompt": "Who is Paul L. Modrich?"
+    },
+    {
+        "prompt": "Who is Jane Addams?"
+    },
+    {
+        "prompt": "Who is Ernst Mayr?"
+    },
+    {
+        "prompt": "Who is Bernhard Riemann?"
+    },
+    {
+        "prompt": "Tell me about the IceCube Neutrino Observatory?"
+    },
+    {
+        "prompt": "What is the Royal Victoria Hospital, Belfast?"
+    },
+    {
+        "prompt": "What is Mark Zuckerberg's Internet.org project?"
+    },
+    {
+        "prompt": "What is the Microsoft Quantum Development Kit?"
+    },
+    {
+        "prompt": "Can you explain what the Keysight 33500B Series waveform generators are used for?"
+    },
+    {
+        "prompt": "What was the controversy behind the Boeing 737 Max crashes?"
+    },
+    {
+        "prompt": "Who is Marie Curie?"
+    },
+    {
+        "prompt": "What is the Altamira Cave?"
+    },
+    {
+        "prompt": "What can you tell me about Mount Kilimanjaro?"
+    },
+    {
+        "prompt": "What is the Johns Hopkins Hospital?"
+    },
+    {
+        "prompt": "Who is Georg Luk\u00e1cs?"
+    },
+    {
+        "prompt": "What can you tell me about the coronation of Queen Elizabeth II?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Thalidomide drug scandal in the 1950s and 1960s?"
+    },
+    {
+        "prompt": "What can you tell me about the discovery of King Tutankhamun's tomb?"
+    },
+    {
+        "prompt": "Who is lawyer Amal Clooney?"
+    },
+    {
+        "prompt": "What can you tell me about the Greenland Ice Sheet?"
+    },
+    {
+        "prompt": "Who is Ignaz Semmelweis?"
+    },
+    {
+        "prompt": "What is the Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin?"
+    },
+    {
+        "prompt": "What was the controversy surrounding the wage practices of the convenience store chain, 7-Eleven?"
+    },
+    {
+        "prompt": "Can you describe the application of the Schneider Electric Modicon M580 PLC in industrial automation?"
+    },
+    {
+        "prompt": "What can you tell me about the Serengeti National Park?"
+    },
+    {
+        "prompt": "Who is Jean-Paul Sartre?"
+    },
+    {
+        "prompt": "Who is Nancy Chodorow?"
+    },
+    {
+        "prompt": "What is the function of the Tektronix TDS2024C Digital Storage Oscilloscope in data analysis tasks?"
+    },
+    {
+        "prompt": "What is the Memorial Sloan Kettering Cancer Center?"
+    },
+    {
+        "prompt": "Who is Michael B. Jordan?"
+    },
+    {
+        "prompt": "Can you provide information on the Trans-Pacific Partnership?"
+    },
+    {
+        "prompt": "Can you tell me about the Tokyo Stock Exchange?"
+    },
+    {
+        "prompt": "Who is Robert Sternberg and what is his Triarchic Theory of Intelligence's applicability in the field of cognitive psychology?"
+    },
+    {
+        "prompt": "Can you explain what the Amprobe AT-3500 Underground Cable Locator is used for?"
+    },
+    {
+        "prompt": "Who is Robert Pattinson?"
+    },
+    {
+        "prompt": "What is the gaming event \"BlizzCon\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Pacific Yew tree?"
+    },
+    {
+        "prompt": "Who is Andrej Karpathy?"
+    },
+    {
+        "prompt": "What was the design process behind the Louvre Pyramid in Paris, designed by I.M. Pei?"
+    },
+    {
+        "prompt": "Who is Heraclitus?"
+    },
+    {
+        "prompt": "Can you tell me about the Bodhi Tree in Buddhism?"
+    },
+    {
+        "prompt": "Can you provide information about Warren Buffett's role as CEO of Berkshire Hathaway?"
+    },
+    {
+        "prompt": "Who is Angelina Jolie?"
+    },
+    {
+        "prompt": "What is the H1N1 swine flu pandemic of 2009?"
+    },
+    {
+        "prompt": "Who is Don Bradman?"
+    },
+    {
+        "prompt": "Who is the character Kratos from the game \"God of War\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Siege of Leningrad?"
+    },
+    {
+        "prompt": "What is Amsterdam's Van 't Hoff Institute for Molecular Sciences known for within academic scientific research?"
+    },
+    {
+        "prompt": "What is the controversy related to the Goldman Sachs 1MDB scandal?"
+    },
+    {
+        "prompt": "What is the movie 'Gone Girl'?"
+    },
+    {
+        "prompt": "What is the game development company \"Naughty Dog\"?"
+    },
+    {
+        "prompt": "Who is Bruno Latour?"
+    },
+    {
+        "prompt": "Who is Billie Eilish?"
+    },
+    {
+        "prompt": "Can you tell me about the case of Citizens United v. Federal Election Commission?"
+    },
+    {
+        "prompt": "Can you tell me about Mount Sinai in Judaism?"
+    },
+    {
+        "prompt": "What is the Ashes series?"
+    },
+    {
+        "prompt": "What is the Oracle Database?"
+    },
+    {
+        "prompt": "What is the Garmada Cave?"
+    },
+    {
+        "prompt": "Who is the flutist \"James Galway\"?"
+    },
+    {
+        "prompt": "Tell me about Fritz Strassmann's contribution in nuclear fission."
+    },
+    {
+        "prompt": "Who is Susan Wojcicki and what is her role at YouTube?"
+    },
+    {
+        "prompt": "What are the features of the Tektronix TDS1002B Digital Storage Oscilloscope in signal analysis?"
+    },
+    {
+        "prompt": "Could you provide an overview of Nike's \"Just Do It\" marketing campaign?"
+    },
+    {
+        "prompt": "What innovative techniques were used in the construction of the Highline park in New York City?"
+    },
+    {
+        "prompt": "What can you tell me about the Ashanti Empire?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Theranos scandal?"
+    },
+    {
+        "prompt": "Who is Maryam Mirzakhani?"
+    },
+    {
+        "prompt": "What is the secure web browser Tor?"
+    },
+    {
+        "prompt": "What can you tell me about the expedition of Lewis and Clark?"
+    },
+    {
+        "prompt": "Could you tell me about the events that occurred during the Jonestown Massacre in 1978?"
+    },
+    {
+        "prompt": "What is the instrument NMR Spectrometer used for in analyzing chemical structures?"
+    },
+    {
+        "prompt": "What can you tell me about the Gold Rush in California?"
+    },
+    {
+        "prompt": "What is the role of Richard Edelman in Edelman Public Relations?"
+    },
+    {
+        "prompt": "Who is Gottlob Frege?"
+    },
+    {
+        "prompt": "What can you tell me about the World Trade Organization?"
+    },
+    {
+        "prompt": "What is the gaming company \"Bioware\"?"
+    },
+    {
+        "prompt": "What happened during the Samsung's Galaxy Note 7 crisis?"
+    },
+    {
+        "prompt": "Who is Jacques Hadamard?"
+    },
+    {
+        "prompt": "Who is Louis Pasteur?"
+    },
+    {
+        "prompt": "Who is Mike Modano?"
+    },
+    {
+        "prompt": "Who is Kary Mullis and how did his invention of polymerase chain reaction (PCR) revolutionize DNA research and diagnostics in molecular chemistry?"
+    },
+    {
+        "prompt": "Who is Edward O. Wilson?"
+    },
+    {
+        "prompt": "Can you tell me about the RadioAstron space radio telescope?"
+    },
+    {
+        "prompt": "What can you tell me about Lake Baikal?"
+    },
+    {
+        "prompt": "Who is Albert Camus?"
+    },
+    {
+        "prompt": "Who is the chemist Roald Hoffmann, known for his contribution to computational chemistry?"
+    },
+    {
+        "prompt": "What can you tell me about the Salem Witch Trials?"
+    },
+    {
+        "prompt": "Who is the cybersecurity journalist Brian Krebs?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the phone-hacking by News of the World?"
+    },
+    {
+        "prompt": "Who is Celine Dion?"
+    },
+    {
+        "prompt": "Can you provide information about the Vienna Convention on Diplomatic Relations?"
+    },
+    {
+        "prompt": "What is the orchestra \"Boston Symphony Orchestra\"?"
+    },
+    {
+        "prompt": "Can you provide information about Jack Ma's time as the Executive Chairman of Alibaba Group?"
+    },
+    {
+        "prompt": "What was the outcome of the SALT II negotiations?"
+    },
+    {
+        "prompt": "Can you tell me about the Vatican City?"
+    },
+    {
+        "prompt": "Who is Hayley Wickenheiser?"
+    },
+    {
+        "prompt": "Who is William Rowan Hamilton?"
+    },
+    {
+        "prompt": "What is the opera \"La Traviata\"?"
+    },
+    {
+        "prompt": "What was the controversy involving Google's alleged breaches of user privacy?"
+    },
+    {
+        "prompt": "Who is Howard S. Becker?"
+    },
+    {
+        "prompt": "Who is Svante Arrhenius and how did he contribute to our understanding of electrolytic dissociation?"
+    },
+    {
+        "prompt": "Who is Ginni Rometty and what was her role at IBM?"
+    },
+    {
+        "prompt": "What is the Golden Temple in Sikhism?"
+    },
+    {
+        "prompt": "Who is Robert Merton?"
+    },
+    {
+        "prompt": "What is the role of the Panama Canal in global shipping?"
+    },
+    {
+        "prompt": "What is the movie 'Black Swan'?"
+    },
+    {
+        "prompt": "What is the Cleveland Clinic?"
+    },
+    {
+        "prompt": "What is the Cisco Router Series?"
+    },
+    {
+        "prompt": "Who is Larry Page and what is his relation to Google?"
+    },
+    {
+        "prompt": "What is the Large Synoptic Survey Telescope?"
+    },
+    {
+        "prompt": "What can you tell me about Steve Jobs's role at Apple?"
+    },
+    {
+        "prompt": "What is the video game \"Red Dead Redemption 2\"?"
+    },
+    {
+        "prompt": "Who is Richard Dedekind?"
+    },
+    {
+        "prompt": "Who is lawyer Barry Scheck?"
+    },
+    {
+        "prompt": "What can you tell me about Jeff Bezos's time as CEO of Amazon?"
+    },
+    {
+        "prompt": "What unfolded during the Oklahoma City bombing in 1995?"
+    },
+    {
+        "prompt": "Who is Lao Tzu?"
+    },
+    {
+        "prompt": "Who is Joseph-Louis Lagrange?"
+    },
+    {
+        "prompt": "What can you tell me about the opening of the first McDonald's restaurant?"
+    },
+    {
+        "prompt": "What does the Immigration and Nationality Act of 1965 entail?"
+    },
+    {
+        "prompt": "Can you tell me about the Tektronix MDO3000 Mixed Domain Oscilloscope?"
+    },
+    {
+        "prompt": "Who is Max Weber?"
+    },
+    {
+        "prompt": "What measures did Nike's public relations team take in response to the controversial Colin Kaepernick ad campaign in 2018?"
+    },
+    {
+        "prompt": "What took place during the Berlin Wall construction in 1961?"
+    },
+    {
+        "prompt": "Tell me about the Baha'i House of Worship in New Delhi."
+    },
+    {
+        "prompt": "Who is Blaise Pascal?"
+    },
+    {
+        "prompt": "Who is David Hilbert?"
+    },
+    {
+        "prompt": "What is the Apache Hadoop software?"
+    },
+    {
+        "prompt": "How was the concept of happiness incorporated into Cadbury's \"Gorilla\" advertising campaign?"
+    },
+    {
+        "prompt": "What is the Denisova Cave?"
+    },
+    {
+        "prompt": "Who is Nettie Stevens?"
+    },
+    {
+        "prompt": "Can you explain the viral component of ALS Association's \"Ice Bucket Challenge\" marketing campaign?"
+    },
+    {
+        "prompt": "What is the role of the International Union of Pure and Applied Chemistry in standardizing chemical nomenclature?"
+    },
+    {
+        "prompt": "What is the Trans-Pacific Partnership and what role did the United States play in it?"
+    },
+    {
+        "prompt": "Who is Roland Barthes?"
+    },
+    {
+        "prompt": "Who is Benoit Mandelbrot?"
+    },
+    {
+        "prompt": "What is the computer security company FireEye?"
+    },
+    {
+        "prompt": "How did the public relations team at Equifax manage and mitigate the fallout after their 2017 data breach?"
+    },
+    {
+        "prompt": "Can you delve into the approach of McDonald's \"I'm Lovin' It\" promotional strategy?"
+    },
+    {
+        "prompt": "Can you tell me about the audit and assurance company Ernst & Young Global Limited?"
+    },
+    {
+        "prompt": "Can you tell me about the European Investment Bank?"
+    },
+    {
+        "prompt": "What is the Shrine of Bah\u00e1'u'll\u00e1h in Bah\u00e1'\u00ed Faith?"
+    },
+    {
+        "prompt": "What is the Raspberry Pi Zero?"
+    },
+    {
+        "prompt": "Who is Albert Osterhaus?"
+    },
+    {
+        "prompt": "What can you tell me about the Fermilab Tevatron Accelerator?"
+    },
+    {
+        "prompt": "Who is Mahershala Ali?"
+    },
+    {
+        "prompt": "What inspired Zaha Hadid's design for the Guangzhou Opera House in China?"
+    },
+    {
+        "prompt": "Who is Hannah Arendt?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the hacking of the Ashley Madison website?"
+    },
+    {
+        "prompt": "Who is Donald Knuth?"
+    },
+    {
+        "prompt": "Could you tell me what unfolded during the Apollo 11 Moon Landing in 1969?"
+    },
+    {
+        "prompt": "Who is Edward Bernays?"
+    },
+    {
+        "prompt": "Who is Condoleezza Rice in the context of U.S. foreign policy?"
+    },
+    {
+        "prompt": "Who is Richard Stallman?"
+    },
+    {
+        "prompt": "What was the impact of the Secure Fence Act of 2006 on U.S. immigration law?"
+    },
+    {
+        "prompt": "What is the record label \"Motown\"?"
+    },
+    {
+        "prompt": "What is the video game \"Call of Duty: Warzone\"?"
+    },
+    {
+        "prompt": "What is the UEFA Champions League?"
+    },
+    {
+        "prompt": "Who is John Nash?"
+    },
+    {
+        "prompt": "What is the significance of the Kepler Space Observatory?"
+    },
+    {
+        "prompt": "Who is Kenneth Branagh?"
+    },
+    {
+        "prompt": "How was the traditional Moorish architecture incorporated in the design of the Alhambra Palace in Granada, Spain?"
+    },
+    {
+        "prompt": "What is the role of the International Monetary Fund in the global economy?"
+    },
+    {
+        "prompt": "What is the Gravettian Culture?"
+    },
+    {
+        "prompt": "What is the La Cotte de St Brelade?"
+    },
+    {
+        "prompt": "Can you describe the Colosseum in Italy?"
+    },
+    {
+        "prompt": "Who is Saoirse Ronan?"
+    },
+    {
+        "prompt": "What is the movie 'Dunkirk'?"
+    },
+    {
+        "prompt": "Who is Tim Berners-Lee?"
+    },
+    {
+        "prompt": "What is the eSports organization \"Cloud9\"?"
+    },
+    {
+        "prompt": "What took place during the signing of the Treaty of Versailles in 1919?"
+    },
+    {
+        "prompt": "Can you tell me about the Economic Cooperation Organization?"
+    },
+    {
+        "prompt": "Can you give me details about the Certified Public Accountant (CPA) certification?"
+    },
+    {
+        "prompt": "What is the importance of Antarctica's ice sheets?"
+    },
+    {
+        "prompt": "Who is Chief Justice Earl Warren?"
+    },
+    {
+        "prompt": "Who is Dr. Emil Theodor Kocher?"
+    },
+    {
+        "prompt": "What transpired during the Cuban Missile Crisis in 1962?"
+    },
+    {
+        "prompt": "Who is Fei-Fei Li?"
+    },
+    {
+        "prompt": "What is the Ronald Reagan UCLA Medical Center?"
+    },
+    {
+        "prompt": "What can you tell me about The Fallingwater house designed by Frank Lloyd Wright?"
+    },
+    {
+        "prompt": "What is the video game \"Assassin's Creed Valhalla\"?"
+    },
+    {
+        "prompt": "Could you explain what the event, Supernova 1987A, is?"
+    },
+    {
+        "prompt": "Who is lawyer Marcia Clark?"
+    },
+    {
+        "prompt": "Who is the violinist \"Itzhak Perlman\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Bubonic Plague in Europe?"
+    },
+    {
+        "prompt": "Who is George Simmel?"
+    },
+    {
+        "prompt": "What is the Asian lineage Avian influenza A(H7N9) virus?"
+    },
+    {
+        "prompt": "What is the intrusion detection system Snort?"
+    },
+    {
+        "prompt": "Who is Edward Said?"
+    },
+    {
+        "prompt": "Who is Antonie van Leeuwenhoek?"
+    },
+    {
+        "prompt": "Who is B.F. Skinner in the field of operant conditioning?"
+    },
+    {
+        "prompt": "What is the Swine flu pandemic of 2009?"
+    },
+    {
+        "prompt": "What is the movie 'The Room'?"
+    },
+    {
+        "prompt": "What is the Ryder Cup?"
+    },
+    {
+        "prompt": "What is the purpose of the I-765 Application for Employment Authorization in US Immigration Law?"
+    },
+    {
+        "prompt": "What is the Iran Nuclear Deal and what was the involvement of the United States in it?"
+    },
+    {
+        "prompt": "Can you tell me about the Jokhang Temple in Tibet in Tibetan Buddhism?"
+    },
+    {
+        "prompt": "Could you explain what the Messier 87 galaxy is?"
+    },
+    {
+        "prompt": "Can you elaborate on the European Bank for Reconstruction and Development?"
+    },
+    {
+        "prompt": "What is the controversy surrounding Lockheed Martin's involvement in the Yemen war?"
+    },
+    {
+        "prompt": "What is the purpose of the I-864 Affidavit of Support in US Immigration Law?"
+    },
+    {
+        "prompt": "Who can provide information on the Brunelleschi's dome of the Florence Cathedral?"
+    },
+    {
+        "prompt": "What is the secure messaging app Signal?"
+    },
+    {
+        "prompt": "Who is Jonas Salk?"
+    },
+    {
+        "prompt": "Who is Dominik Hasek?"
+    },
+    {
+        "prompt": "What can you tell me about the Ring of Fire?"
+    },
+    {
+        "prompt": "What is the GPT-3 model in the field of machine learning?"
+    },
+    {
+        "prompt": "What is the symphony \"Beethoven's Symphony No. 5\"?"
+    },
+    {
+        "prompt": "Can you tell me about Lake Baikal?"
+    },
+    {
+        "prompt": "What can you tell me about the Rocky Mountains?"
+    },
+    {
+        "prompt": "What can you tell me about the Pacific White-sided Dolphin?"
+    },
+    {
+        "prompt": "Could you provide information about the Pulsar PSR B1937+21?"
+    },
+    {
+        "prompt": "What can you tell me about the Battle of Thermopylae?"
+    },
+    {
+        "prompt": "What can you tell me about the Sahara Desert?"
+    },
+    {
+        "prompt": "Who is S\u00f8ren Kierkegaard?"
+    },
+    {
+        "prompt": "What is the Kaggle platform?"
+    },
+    {
+        "prompt": "What is the controversy related to the Facebook-Cambridge Analytica data scandal?"
+    },
+    {
+        "prompt": "What was the controversy involving the labor practices of the fast fashion retailer, Forever 21?"
+    },
+    {
+        "prompt": "What can you tell me about the Petronas Towers in Kuala Lumpur, designed by C\u00e9sar Pelli?"
+    },
+    {
+        "prompt": "Can you describe the Sahara Desert?"
+    },
+    {
+        "prompt": "What is the usage of the Fluke 435 Series II Power Quality and Energy Analyzer in monitoring power consumption?"
+    },
+    {
+        "prompt": "Can you provide information about the Titan (laser facility)?"
+    },
+    {
+        "prompt": "What is the Royal Victoria Hospital?"
+    },
+    {
+        "prompt": "Can you provide details about the Sage Group accounting software?"
+    },
+    {
+        "prompt": "Who is Justice Samuel Alito?"
+    },
+    {
+        "prompt": "What can you tell me about the Battle of Stalingrad?"
+    },
+    {
+        "prompt": "Who is John Bowlby in the field of attachment theory?"
+    },
+    {
+        "prompt": "What transpired during the bombing of Hiroshima and Nagasaki in 1945?"
+    },
+    {
+        "prompt": "What is the Karolinska Institute?"
+    },
+    {
+        "prompt": "Who is Danica Patrick?"
+    },
+    {
+        "prompt": "Could you tell me about the Comet Hale-Bopp?"
+    },
+    {
+        "prompt": "Who is Mary Barra?"
+    },
+    {
+        "prompt": "Can you provide information about the Advanced LIGO (Laser Interferometer Gravitational-Wave Observatory)?"
+    },
+    {
+        "prompt": "Who is Robert Gallo?"
+    },
+    {
+        "prompt": "What can you tell me about the Amazon River?"
+    },
+    {
+        "prompt": "What were the key aspects of Red Bull's \"Gives You Wings\" advertising campaign?"
+    },
+    {
+        "prompt": "Can you tell me about the firm Zaha Hadid Architects?"
+    },
+    {
+        "prompt": "Who is the guitarist \"B.B. King\"?"
+    },
+    {
+        "prompt": "Who is Justice Anthony Kennedy?"
+    },
+    {
+        "prompt": "Who is Antoni Gaud\u00ed?"
+    },
+    {
+        "prompt": "Can you provide information about the Charter of the United Nations?"
+    },
+    {
+        "prompt": "How did the architects integrate the surrounding nature into the design of the Getty Center in Los Angeles?"
+    },
+    {
+        "prompt": "Can you describe the occurrences during the Watts Riots?"
+    },
+    {
+        "prompt": "What is known about the exoplanet called Proxima Centauri b?"
+    },
+    {
+        "prompt": "Who is Roscoe Pound?"
+    },
+    {
+        "prompt": "Who is Barbara Liskov?"
+    },
+    {
+        "prompt": "Can you provide information about the tax service company H&R Block?"
+    },
+    {
+        "prompt": "What was the Balfour Declaration, and how did the United States respond to it?"
+    },
+    {
+        "prompt": "Who is Ivan Pavlov and how has his conditioning experiments on dogs influenced the field of behaviorism in psychology?"
+    },
+    {
+        "prompt": "What is the Grotte de Niaux?"
+    },
+    {
+        "prompt": "What occurred during the Pepsi's 1996 project Blue campaign?"
+    },
+    {
+        "prompt": "What can you tell me about the Mojave Desert?"
+    },
+    {
+        "prompt": "Can you explain what took place during the Iranian Hostage Crisis?"
+    },
+    {
+        "prompt": "What is the Decision Tree Algorithm in the field of machine learning?"
+    },
+    {
+        "prompt": "What is the Royal Children\u2019s Hospital, Melbourne?"
+    },
+    {
+        "prompt": "Can you tell me about the dwarf planet Eris?"
+    },
+    {
+        "prompt": "What can you tell me about the Saturn's moon Titan?"
+    },
+    {
+        "prompt": "What is the Stanley Cup?"
+    },
+    {
+        "prompt": "What is the controversy behind the Wells Fargo account fraud scandal?"
+    },
+    {
+        "prompt": "What do you know about FleishmanHillard International Communications?"
+    },
+    {
+        "prompt": "What can you tell me about the Death Valley?"
+    },
+    {
+        "prompt": "What is the Iditarod Trail Sled Dog Race?"
+    },
+    {
+        "prompt": "What are the roles and responsibilities of the United Nations Economic and Social Council?"
+    },
+    {
+        "prompt": "Who is Justice Sonia Sotomayor?"
+    },
+    {
+        "prompt": "What is the Great Synagogue of Sydney?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Panama Papers leak?"
+    },
+    {
+        "prompt": "What can you tell me about Bob Iger's leadership at The Walt Disney Company?"
+    },
+    {
+        "prompt": "Can you provide information about Marillyn Hewson's tenure as CEO of Lockheed Martin?"
+    },
+    {
+        "prompt": "Can you describe the Nile River in Africa?"
+    },
+    {
+        "prompt": "Who is Tony Romo?"
+    },
+    {
+        "prompt": "Who is Louis Althusser?"
+    },
+    {
+        "prompt": "What was the controversy surrounding the Samsung's Galaxy Note 7 explosion incidents?"
+    },
+    {
+        "prompt": "Who is Doug McMillon and what is his role at Walmart?"
+    },
+    {
+        "prompt": "What is the movie 'Parasite'?"
+    },
+    {
+        "prompt": "What is the controversy surrounding the Uber's sexual harassment allegations?"
+    },
+    {
+        "prompt": "What is the aim of The Minnesota Twin Study in the context of nature vs nurture debate?"
+    },
+    {
+        "prompt": "What are the main characteristics of the architectural design of Seattle's Space Needle?"
+    },
+    {
+        "prompt": "Who is Alexander Fleming?"
+    },
+    {
+        "prompt": "Who is Dian Fossey?"
+    },
+    {
+        "prompt": "Who is Alexander Fleming?"
+    },
+    {
+        "prompt": "What can you tell me about the Sagittarius A*?"
+    },
+    {
+        "prompt": "Who is Charles Wright Mills?"
+    },
+    {
+        "prompt": "Can you tell me about the KEKB electron-positron collider in Japan?"
+    },
+    {
+        "prompt": "What is the ASIMO Robot by Honda?"
+    },
+    {
+        "prompt": "Who is Albert Sabin?"
+    },
+    {
+        "prompt": "Can you tell me about Elon Musk's role in SpaceX?"
+    },
+    {
+        "prompt": "What is the Clovis culture?"
+    },
+    {
+        "prompt": "What is the function of the Linear Technology LT3092 Current Source in a power circuit?"
+    },
+    {
+        "prompt": "What can you tell me about the Titan Arum?"
+    },
+    {
+        "prompt": "Can you share information about the International Court of Justice?"
+    },
+    {
+        "prompt": "What is the movie 'Three Billboards Outside Ebbing, Missouri'?"
+    },
+    {
+        "prompt": "Who is Pythagoras?"
+    },
+    {
+        "prompt": "What is the movie 'Joker'?"
+    },
+    {
+        "prompt": "What role does the United States play in the Arab League?"
+    },
+    {
+        "prompt": "What was the role of the United States in the Treaty of Tordesillas?"
+    },
+    {
+        "prompt": "What was the United States' role in the Kyoto Protocol?"
+    },
+    {
+        "prompt": "Can you provide some details about the North Atlantic Treaty?"
+    },
+    {
+        "prompt": "What can you tell me about the Archaeopteryx?"
+    },
+    {
+        "prompt": "Who is Millie Bobby Brown?"
+    },
+    {
+        "prompt": "Who is Haile Selassie in Rastafarianism?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the privacy invasion by Snowden's NSA leaks?"
+    },
+    {
+        "prompt": "What can you share about the Treaty of Lisbon?"
+    },
+    {
+        "prompt": "Who is the guitarist \"Carlos Santana\"?"
+    },
+    {
+        "prompt": "What can you tell me about the Pleiades Star Cluster?"
+    },
+    {
+        "prompt": "What is the All India Institutes of Medical Sciences?"
+    },
+    {
+        "prompt": "What is the Venus of Willendorf?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the Michigan State University's handling of the Larry Nassar sexual abuse scandal?"
+    },
+    {
+        "prompt": "Who is Jon Stewart?"
+    },
+    {
+        "prompt": "Who is the character Sam Porter Bridges from the game \"Death Stranding\"?"
+    },
+    {
+        "prompt": "What is the movie 'The Revenant'?"
+    },
+    {
+        "prompt": "Who is lawyer Robert Kardashian?"
+    },
+    {
+        "prompt": "What is the virtual private network software, NordVPN?"
+    },
+    {
+        "prompt": "Could you explain what the Mars Rover Curiosity is?"
+    },
+    {
+        "prompt": "Could you explain what the Event Horizon Telescope is?"
+    },
+    {
+        "prompt": "What is the role of the Suez Canal in international trade?"
+    },
+    {
+        "prompt": "What is the Fumane Cave?"
+    },
+    {
+        "prompt": "What is the McGill University Health Centre?"
+    },
+    {
+        "prompt": "What can you tell me about the Single Convention on Narcotic Drugs?"
+    },
+    {
+        "prompt": "What is known about the Peace of Westphalia?"
+    },
+    {
+        "prompt": "What can you tell me about the Bering Strait?"
+    },
+    {
+        "prompt": "What is the Zika virus outbreak of 2015-2016?"
+    },
+    {
+        "prompt": "Who is Alan Turing?"
+    },
+    {
+        "prompt": "What is the role of the Amazon River in South America?"
+    },
+    {
+        "prompt": "Can you provide information about the Public Company Accounting Oversight Board?"
+    },
+    {
+        "prompt": "Tell me about the chemist Paul L. Modrich."
+    },
+    {
+        "prompt": "How did Apple's public relations department manage the crisis of the iPhone 4's antenna issues in 2010?"
+    },
+    {
+        "prompt": "What was the insight behind Old Spice's \"The Man Your Man Could Smell Like\" marketing campaign?"
+    },
+    {
+        "prompt": "What is the primary goal of Albert Bandura's Bobo Doll Experiment?"
+    },
+    {
+        "prompt": "What is Massachusetts General Hospital?"
+    },
+    {
+        "prompt": "Who is Anthony Blinken?"
+    },
+    {
+        "prompt": "What is the Human immunodeficiency virus (HIV) pandemic?"
+    },
+    {
+        "prompt": "Can you discuss the tactics utilized in Starbucks' \"Meet Me at Starbucks\" marketing campaign?"
+    },
+    {
+        "prompt": "What is the Nipah virus outbreak of 1998 in Malaysia?"
+    },
+    {
+        "prompt": "Can you tell me about the Chicago Board of Trade?"
+    },
+    {
+        "prompt": "Who is John Stuart Mill?"
+    },
+    {
+        "prompt": "What is the movie 'A Quiet Place'?"
+    },
+    {
+        "prompt": "What is the XGBoost Machine Learning algorithm?"
+    },
+    {
+        "prompt": "What is the Deep Blue chess computer by IBM?"
+    },
+    {
+        "prompt": "Who is George Berkeley?"
+    },
+    {
+        "prompt": "What is the Laetoli Footprint Trail?"
+    },
+    {
+        "prompt": "What is the Lascaux Cave?"
+    },
+    {
+        "prompt": "What was the ethical controversy surrounding the cloning of Dolly the Sheep?"
+    },
+    {
+        "prompt": "Who is Sandra Bullock?"
+    },
+    {
+        "prompt": "What is the Jupyter Notebook in relation to machine learning?"
+    },
+    {
+        "prompt": "Who is Jeh Johnson in the field of Immigration Law?"
+    },
+    {
+        "prompt": "What can you tell me about Jamie Dimon's leadership at JPMorgan Chase?"
+    },
+    {
+        "prompt": "What is The Titan supercomputer?"
+    },
+    {
+        "prompt": "What is the design philosophy behind the Marina Bay Sands in Singapore, designed by Moshe Safdie?"
+    },
+    {
+        "prompt": "How does the ABB ACS880 Industrial Drives function in an industrial setting?"
+    },
+    {
+        "prompt": "Can you tell me about the Pyramids of Giza?"
+    },
+    {
+        "prompt": "Who is Louis Pasteur?"
+    },
+    {
+        "prompt": "Who is the cybersecurity researcher Dan Kaminsky?"
+    },
+    {
+        "prompt": "What events transpired during the \"United Breaks Guitars\" incident involving United Airlines?"
+    },
+    {
+        "prompt": "What is the gaming console \"Xbox Series X\"?"
+    },
+    {
+        "prompt": "What is the controversy involving Foxconn's labor practices in its electronics manufacturing plants?"
+    },
+    {
+        "prompt": "Who is Rosalind Franklin and how did her work with X-ray diffraction images contribute to the understanding of the molecular structure of DNA?"
+    },
+    {
+        "prompt": "What is the function of the Central Bank of Brazil?"
+    },
+    {
+        "prompt": "What do you know about the Chandra X-ray Observatory?"
+    },
+    {
+        "prompt": "What can you tell me about the Apollo 11 moon landing?"
+    },
+    {
+        "prompt": "Who is the cybersecurity expert Bruce Schneier?"
+    },
+    {
+        "prompt": "What can you tell me about the eruption of Mount Vesuvius in 79 AD?"
+    },
+    {
+        "prompt": "What was the controversy behind the Uber Greyball program?"
+    },
+    {
+        "prompt": "Who is Paul Ehrlich?"
+    },
+    {
+        "prompt": "Can you tell me about the Eiffel Tower?"
+    },
+    {
+        "prompt": "Who is Albert Sabin?"
+    },
+    {
+        "prompt": "What is the NLTK library for machine learning?"
+    },
+    {
+        "prompt": "Tell me about Procter & Gamble's \"Thank You, Mom\" Advertisement campaign?"
+    },
+    {
+        "prompt": "Who is Juergen Habermas?"
+    },
+    {
+        "prompt": "What is the primary focus of the Famous Marshmallow Experiment conducted by Walter Mischel?"
+    },
+    {
+        "prompt": "What is the PyTorch machine learning library?"
+    },
+    {
+        "prompt": "Who is Jackie Robinson?"
+    },
+    {
+        "prompt": "What is the Google Cloud AutoML service for machine learning?"
+    },
+    {
+        "prompt": "Who was L. Ron Hubbard, the founder of Scientology?"
+    },
+    {
+        "prompt": "Who is Daniel Craig?"
+    },
+    {
+        "prompt": "Can you provide information about the Agilent E4440A PSA Spectrum Analyzer?"
+    },
+    {
+        "prompt": "What was the role of the United States in the Cuban Missile Crisis?"
+    },
+    {
+        "prompt": "What is the Blombos Cave?"
+    },
+    {
+        "prompt": "Who is Andrei Kolmogorov?"
+    },
+    {
+        "prompt": "What is the controversy associated with Google's issues of workplace discrimination?"
+    },
+    {
+        "prompt": "What is the controversy surrounding the Toshiba accounting scandal?"
+    },
+    {
+        "prompt": "Who is Alfred Adler and his contribution to the study of individual psychology?"
+    },
+    {
+        "prompt": "What is the music festival \"Glastonbury\"?"
+    },
+    {
+        "prompt": "Who is Leo Hendrik Baekeland?"
+    },
+    {
+        "prompt": "Who is Geoffrey Hinton?"
+    },
+    {
+        "prompt": "What is the Thermo Fisher Scientific's Inductively Coupled Plasma Mass Spectrometry (ICP-MS) commonly used for in trace elemental analysis?"
+    },
+    {
+        "prompt": "What is the Bellevue Hospital Center?"
+    },
+    {
+        "prompt": "Who is Jonas Salk?"
+    },
+    {
+        "prompt": "What is the Grotte du Grand Roc?"
+    },
+    {
+        "prompt": "Who is Glenn T. Seaborg and how did his discovery of plutonium and other transuranic elements change the study of heavy elements in chemistry?"
+    },
+    {
+        "prompt": "Can you tell me about the Siemens Simatic S7-300 programmable logic controller (PLC)?"
+    },
+    {
+        "prompt": "What was the controversy of the Parmalat financial scandal?"
+    },
+    {
+        "prompt": "Who is Karl Popper and what is his falsification principle's role in the research methods of psychology?"
+    },
+    {
+        "prompt": "Who is Zbigniew Brzezinski in the field of U.S. Foreign Policy?"
+    },
+    {
+        "prompt": "What is the Great Zimbabwe?"
+    },
+    {
+        "prompt": "Who is Carl Rogers in the field of humanistic psychology?"
+    },
+    {
+        "prompt": "What is the nature of the Rorschach Inkblot Test?"
+    },
+    {
+        "prompt": "Can you describe the events that unfolded during the assassination of Mahatma Gandhi in 1948?"
+    },
+    {
+        "prompt": "What is the La Ferrassie Cave?"
+    },
+    {
+        "prompt": "What is the controversy surrounding Huawei's alleged theft of trade secrets?"
+    },
+    {
+        "prompt": "What is the movie 'The Social Network'?"
+    },
+    {
+        "prompt": "Who is Idris Elba?"
+    },
+    {
+        "prompt": "What is the New START treaty and how was the United States involved in it?"
+    },
+    {
+        "prompt": "Can you share some information about the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)?"
+    },
+    {
+        "prompt": "What is the Petralona Cave?"
+    },
+    {
+        "prompt": "What were the events that transpired during the Chernobyl nuclear disaster in 1986?"
+    },
+    {
+        "prompt": "What is the Dolmen of Menga?"
+    },
+    {
+        "prompt": "What can you tell me about the Paris Agreement?"
+    },
+    {
+        "prompt": "Who is the musician \"Brian Eno\"?"
+    },
+    {
+        "prompt": "What is the Intel 8086 microprocessor?"
+    },
+    {
+        "prompt": "Can you tell me about the Crab Nebula?"
+    },
+    {
+        "prompt": "Can you give an overview of PepsiCo's \"Refresh Project\" campaign?"
+    }
+]

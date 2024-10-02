@@ -1,0 +1,7 @@
+Question: {question}
+
+{sampled_responses}
+
+Evaluate these responses.
+Select the most consistent response based on majority consensus.
+Start your answer with "The most consistent response is Response X" (without quotes).

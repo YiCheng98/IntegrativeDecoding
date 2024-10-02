@@ -1,0 +1,6 @@
+Question: List five major achievements or contributions of {question}.
+Answer: {sampled_response}
+
+Some information in the above answer might be wrong. Extract the correct information in it and answer the question again. 
+Start your answer with "The answer to this question should be: ". Format each point in your answer concisely with one sentence.
+Refined Answer:

@@ -1,0 +1,9 @@
+Question: Please list five major achievements or contributions of {question}. Format your response by starting each achievement on a new line. Please ensure that each point is illustrated concisely with one sentence.
+
+Answers: 
+{sampled_responses}
+
+Evaluate these responses. Some parts of the responses might not be factual. Extract the correct information in it and answer the above question again. 
+Start your answer with "The answer to this question should be: ". 
+
+Refined Answer: 

@@ -1,0 +1,6 @@
+Question: {question}
+Answer: {sampled_response}
+
+Answer the above question again and try to add more details. Provide as many specific details and examples as possible (such as names of people, numbers, events, locations, dates, times, etc.)
+Question: {question} 
+Refined Answer: 

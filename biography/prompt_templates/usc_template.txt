@@ -1,0 +1,7 @@
+Question: Give a bullet point biography of {question} highlighting their contributions and achievements as a computer scientist, with each fact separated with a new line character. Start your answer with "Here is a bullet point biography of "(without quotes)
+
+{sampled_responses}
+
+Evaluate these responses.
+Select the most consistent response based on majority consensus.
+Start your answer with "The most consistent response is Response X" (without quotes).

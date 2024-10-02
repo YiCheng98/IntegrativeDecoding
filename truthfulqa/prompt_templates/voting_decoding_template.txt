@@ -1,0 +1,5 @@
+Question: {question} 
+Answer: {sampled_response}
+
+Answer the above question again with one or two sentences. Ensure the factuality of the answer.
+Refined Answer: 

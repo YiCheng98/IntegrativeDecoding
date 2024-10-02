@@ -1,0 +1,8 @@
+Question: {question}
+
+Answers: {sampled_responses}
+
+Evaluate these responses. Some parts of the responses might not be factual. Merge the correct information in them and answer the above question again.
+Start your answer with "The answer to this question should be: ".
+Question: {question}
+Answer:
