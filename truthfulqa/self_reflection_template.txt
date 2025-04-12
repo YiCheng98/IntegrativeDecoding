@@ -1,0 +1,7 @@
+Question: {question}
+
+Answers: {sampled_responses}
+
+Evaluate these responses. Some parts of the responses might not be factual. 
+Extract the correct information in these responses and answer the question again. 
+Start your answer with "The answer to this question is: " (without quotes).
